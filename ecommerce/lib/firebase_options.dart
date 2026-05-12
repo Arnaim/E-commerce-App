@@ -51,20 +51,18 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'AIzaSyC_swAcsg5AZDcC3tWn_n0peRXmYnWaL3A',
-    appId: '1:169582136982:android:6093db1ddc48abea66bcb7',
-    messagingSenderId: '169582136982',
-    projectId: 'ostad-batch-six',
-    databaseURL: 'https://ostad-batch-six-default-rtdb.asia-southeast1.firebasedatabase.app',
-    storageBucket: 'ostad-batch-six.firebasestorage.app',
+    appId: '1:501474006657:android:558872580c80786966bcb7',
+    messagingSenderId: '501474006657',
+    projectId: 'guerniss-51724',
+    storageBucket: 'guerniss-51724.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
     apiKey: 'AIzaSyCLUsTiuPI3g7sQV4xr_mHhOHZdUgRKLCM',
-    appId: '1:169582136982:ios:aa18789eb921007d66bcb7',
-    messagingSenderId: '169582136982',
-    projectId: 'ostad-batch-six',
-    databaseURL: 'https://ostad-batch-six-default-rtdb.asia-southeast1.firebasedatabase.app',
-    storageBucket: 'ostad-batch-six.firebasestorage.app',
-    iosBundleId: 'com.ostad.eCommerce',
+    appId: '1:501474006657:ios:447783690d91117d66bcb7',
+    messagingSenderId: '501474006657',
+    projectId: 'guerniss-51724',
+    storageBucket: 'guerniss-51724.firebasestorage.app',
+    iosBundleId: 'com.guerniss.eCommerce',
   );
 }

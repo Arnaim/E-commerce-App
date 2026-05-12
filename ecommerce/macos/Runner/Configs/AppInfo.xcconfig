@@ -8,7 +8,7 @@
 PRODUCT_NAME = ecommerce
 
 // The application's bundle identifier
-PRODUCT_BUNDLE_IDENTIFIER = com.example.ecommerce
+PRODUCT_BUNDLE_IDENTIFIER = com.guerniss.e_commerce
 
 // The copyright displayed in application information
-PRODUCT_COPYRIGHT = Copyright © 2025 com.example. All rights reserved.
+PRODUCT_COPYRIGHT = Copyright © 2025 com.guerniss. All rights reserved.

@@ -1,0 +1,2216 @@
+{
+  "__collections__": {
+    "products": {
+      "7671261102286": {
+        "id": 7671261102286,
+        "title": "Guerniss Raw Ginger Hair Oil 100 ML",
+        "handle": "guerniss-raw-ginger-hair-oil-100-ml",
+        "body_html": "<p data-start=\"424\" data-end=\"709\"><strong data-start=\"424\" data-end=\"443\">Ginger Hair Oil</strong> is a nourishing herbal oil blend designed to strengthen hair roots, improve scalp health, and promote healthier, shinier hair. Powered by <strong data-start=\"582\" data-end=\"600\">Ginger extract</strong>, this formula helps stimulate the scalp and support natural hair growth while reducing dryness and breakage.</p>\n<p data-start=\"711\" data-end=\"994\">Enriched with natural oils such as <strong data-start=\"746\" data-end=\"760\">Sesame Oil</strong>, <strong data-start=\"762\" data-end=\"798\">Prunus Dulcis (Sweet Almond) Oil</strong>, <strong data-start=\"800\" data-end=\"815\">Coconut Oil</strong>, <strong data-start=\"817\" data-end=\"846\">Olea Europaea (Olive Oil)</strong>, and <strong data-start=\"852\" data-end=\"889\">Simmondsia Chinensis (Jojoba Oil)</strong>, this hair oil deeply moisturizes the scalp and hair strands, leaving hair soft, smooth, and manageable.</p>\n<p data-start=\"996\" data-end=\"1260\">Botanical ingredients like <strong data-start=\"1023\" data-end=\"1036\">Chamomile</strong>, <strong data-start=\"1038\" data-end=\"1075\">Rosmarinus Officinalis (Rosemary)</strong>, and <strong data-start=\"1081\" data-end=\"1109\">Crocus Sativus (Saffron)</strong> help soothe the scalp and add natural shine. The lightweight formula absorbs easily into the scalp, making it suitable for regular hair care routines.<br><br><strong>How to Use: </strong></p>\n<p data-start=\"996\" data-end=\"1260\">Apply a small amount of oil to the scalp and hair. Gently massage in circular motions and leave for at least 30 minutes or overnight. Wash with shampoo for best results.<br></p>",
+        "published_at": "2026-03-08T15:13:39+06:00",
+        "created_at": "2026-03-08T15:13:38+06:00",
+        "updated_at": "2026-05-10T21:58:14+06:00",
+        "vendor": "Guerniss",
+        "product_type": "",
+        "tags": [],
+        "variants": [
+          {
+            "id": 43415943905486,
+            "title": "Default Title",
+            "option1": "Default Title",
+            "option2": null,
+            "option3": null,
+            "sku": "8943456789216",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": null,
+            "available": true,
+            "price": "890.00",
+            "grams": 100,
+            "compare_at_price": null,
+            "position": 1,
+            "product_id": 7671261102286,
+            "created_at": "2026-03-08T15:13:39+06:00",
+            "updated_at": "2026-05-10T21:58:14+06:00"
+          }
+        ],
+        "images": [
+          {
+            "id": 38840075878606,
+            "created_at": "2026-03-10T11:53:55+06:00",
+            "position": 1,
+            "updated_at": "2026-04-11T10:28:19+06:00",
+            "product_id": 7671261102286,
+            "variant_ids": [],
+            "src": "https://cdn.shopify.com/s/files/1/0656/1877/2174/files/Ginger_Hair_Oil.jpg?v=1775881699",
+            "width": 2000,
+            "height": 2000
+          },
+          {
+            "id": 38840075911374,
+            "created_at": "2026-03-10T11:53:55+06:00",
+            "position": 2,
+            "updated_at": "2026-04-11T10:29:28+06:00",
+            "product_id": 7671261102286,
+            "variant_ids": [],
+            "src": "https://cdn.shopify.com/s/files/1/0656/1877/2174/files/GINGER_HAIR_OIL_Benifits.jpg?v=1775881768",
+            "width": 2000,
+            "height": 2000
+          }
+        ],
+        "options": [
+          {
+            "name": "Title",
+            "position": 1,
+            "values": [
+              "Default Title"
+            ]
+          }
+        ]
+      },
+      "7671260577998": {
+        "id": 7671260577998,
+        "title": "Onion Seed Hair Oil 100 ML",
+        "handle": "onion-seed-hair-oil-100-ml",
+        "body_html": "<p>Onion Seed Hair Oil is a nourishing herbal hair oil formulated to strengthen hair roots, improve scalp health, and promote healthier hair growth. Powered by Onion Seed extract, this oil helps reduce hair breakage and supports stronger, thicker-looking hair with regular use.</p>\n<p>This enriching formula combines natural oils such as Sesame Oil, Prunus Dulcis (Sweet Almond) Oil, Coconut Oil, Olea Europaea (Olive Oil), and Simmondsia Chinensis (Jojoba Oil) to deeply moisturize the scalp and hair strands. These oils work together to restore softness, enhance shine, and improve overall hair texture.</p>\n<p>Botanical extracts like Chamomile, Rosmarinus Officinalis (Rosemary), and Crocus Sativus (Saffron) help soothe the scalp while promoting healthy, vibrant hair.</p>\n<p>The lightweight oil absorbs easily into the scalp and hair, making it ideal for regular use to maintain strong, smooth, and shiny hair.<br><br></p>\n<p>How to Use:</p>\n<p>Apply a small amount of oil to the scalp and hair. Massage gently in circular motions. Leave for at least 30 minutes or overnight before washing with shampoo.</p>",
+        "published_at": "2026-03-08T15:08:58+06:00",
+        "created_at": "2026-03-08T15:08:57+06:00",
+        "updated_at": "2026-05-10T21:58:14+06:00",
+        "vendor": "Guerniss",
+        "product_type": "",
+        "tags": [],
+        "variants": [
+          {
+            "id": 43415943381198,
+            "title": "Default Title",
+            "option1": "Default Title",
+            "option2": null,
+            "option3": null,
+            "sku": "8943456789223",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": null,
+            "available": true,
+            "price": "850.00",
+            "grams": 100,
+            "compare_at_price": null,
+            "position": 1,
+            "product_id": 7671260577998,
+            "created_at": "2026-03-08T15:08:57+06:00",
+            "updated_at": "2026-05-10T21:58:14+06:00"
+          }
+        ],
+        "images": [
+          {
+            "id": 38840079024334,
+            "created_at": "2026-03-10T11:55:36+06:00",
+            "position": 1,
+            "updated_at": "2026-04-11T10:49:23+06:00",
+            "product_id": 7671260577998,
+            "variant_ids": [],
+            "src": "https://cdn.shopify.com/s/files/1/0656/1877/2174/files/ONION_SEED_HAIR_OIL.jpg?v=1775882963",
+            "width": 2000,
+            "height": 2000
+          },
+          {
+            "id": 38840079057102,
+            "created_at": "2026-03-10T11:55:36+06:00",
+            "position": 2,
+            "updated_at": "2026-04-11T10:52:33+06:00",
+            "product_id": 7671260577998,
+            "variant_ids": [],
+            "src": "https://cdn.shopify.com/s/files/1/0656/1877/2174/files/ONION_SEED_HAIR_OIL_100ml.jpg?v=1775883153",
+            "width": 2000,
+            "height": 2000
+          }
+        ],
+        "options": [
+          {
+            "name": "Title",
+            "position": 1,
+            "values": [
+              "Default Title"
+            ]
+          }
+        ]
+      },
+      "7669938618574": {
+        "id": 7669938618574,
+        "title": "Guerniss Raw Keratin Nourish Therapy Shampoo with Conditioner 250ML",
+        "handle": "keratin-shampoo-conditioner-250ml",
+        "body_html": "<p data-start=\"495\" data-end=\"802\"><strong data-start=\"495\" data-end=\"567\">Guerniss Raw Keratin Nourish Therapy Shampoo with Conditioner 250 ml</strong> is a <strong>Keratin <a href=\"https://www.facebook.com/share/r/1DsBcnTPqQ/\" target=\"_blank\" title=\"\" rel=\"noopener\">Shampoo with Conditione</a>r</strong> made to cleanse, smooth, and repair damaged hair.</p>\n<p>Enriched with <strong data-start=\"693\" data-end=\"704\">Keratin</strong>, this shampoo helps support hair strength, reduce breakage, and improve resilience with regular use.</p>\n<p>It works as a practical for daily care and leaves hair softer after each wash.</p>\n<p>Infused with <strong data-start=\"817\" data-end=\"849\">D-Panthenol (Pro-Vitamin B5)</strong>, it helps hydrate and condition the hair without weighing it down.</p>\n<p><strong data-start=\"942\" data-end=\"981\">Aloe Barbadensis Miller (Aloe Vera)</strong> helps soothe the scalp and maintain moisture balance for a fresh, healthy feel.</p>\n<p>The gentle cleansing formula removes dirt and excess oil while helping preserve natural moisture.</p>\n<p>This <strong>conditioner</strong> blend is suitable for dry, frizzy, chemically treated, or damaged hair.</p>\n<p>For shoppers comparing options, it offers the care of a <strong>keratin care</strong> in one simple step.</p>\n<p><strong>Guerniss</strong> created this formula for hair that needs smoothness, shine, and better manageability.</p>\n<p><strong>Guerniss Keratin Shampoo</strong> is ideal for regular use when hair feels dull, rough, or hard to control.</p>\n<p>Many shoppers compare before choosing a daily care product.</p>\n<p>It is not presented as a <strong>sulphate free shampoo</strong>, but it is designed to cleanse gently and condition at the same time.</p>\n<p>Some customers look for a <strong>best shampoo</strong> that supports softness and helps tame frizz between treatments.</p>\n<p>Others search for a <strong>shampoo for hair loss</strong> or a <strong>hair growth shampoo</strong> as part of a broader routine.</p>\n<p>This product is focused on cleansing, smoothing, and nourishing hair while improving the feel of damaged strands.</p>\n<p>It suits simple routines and helps support smoother, more manageable hair after regular washing.</p>\n<p>The texture feels easy to work through wet hair and rinse away without extra steps. Some shoppers also compare a <strong>2-in-1 keratin hair wash</strong> before choosing.</p>\n<h2 data-start=\"1571\" data-end=\"1588\"><strong data-start=\"1574\" data-end=\"1588\">How to Use <a href=\"https://guerniss.com/products/keratin-nourish-therapy-shampoo-with-conditioner-250ml\" target=\"_blank\" title=\"\" rel=\"noopener\">Keratin Shampoo</a> with Conditioner</strong></h2>\n<p data-start=\"1589\" data-end=\"1694\">Apply to wet hair and scalp.</p>\n<p>Massage gently to create lather, then rinse thoroughly.</p>\n<p>Repeat if necessary. Use regularly to keep hair soft, manageable, and silky smooth.</p>",
+        "published_at": "2026-02-28T13:27:54+06:00",
+        "created_at": "2026-02-28T13:27:53+06:00",
+        "updated_at": "2026-05-10T21:58:14+06:00",
+        "vendor": "Guerniss",
+        "product_type": "",
+        "tags": [],
+        "variants": [
+          {
+            "id": 43409377493198,
+            "title": "Default Title",
+            "option1": "Default Title",
+            "option2": null,
+            "option3": null,
+            "sku": "8943456789513",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": null,
+            "available": true,
+            "price": "650.00",
+            "grams": 250,
+            "compare_at_price": null,
+            "position": 1,
+            "product_id": 7669938618574,
+            "created_at": "2026-02-28T13:27:53+06:00",
+            "updated_at": "2026-05-10T21:58:14+06:00"
+          }
+        ],
+        "images": [
+          {
+            "id": 38792409809102,
+            "created_at": "2026-02-28T13:25:29+06:00",
+            "position": 1,
+            "updated_at": "2026-04-11T10:57:07+06:00",
+            "product_id": 7669938618574,
+            "variant_ids": [],
+            "src": "https://cdn.shopify.com/s/files/1/0656/1877/2174/files/KERATIN_NOURISH_THERAPY_SHAMPOO_WITH_CONDITIONER_250ML.jpg?v=1775883427",
+            "width": 2000,
+            "height": 2000
+          },
+          {
+            "id": 38792409841870,
+            "created_at": "2026-02-28T13:25:29+06:00",
+            "position": 2,
+            "updated_at": "2026-04-11T10:58:09+06:00",
+            "product_id": 7669938618574,
+            "variant_ids": [],
+            "src": "https://cdn.shopify.com/s/files/1/0656/1877/2174/files/KERATIN_NOURISH_THERAPY_SHAMPOO_WITH_CONDITIONER_BACKSIDE250ML.jpg?v=1775883489",
+            "width": 2000,
+            "height": 2000
+          }
+        ],
+        "options": [
+          {
+            "name": "Title",
+            "position": 1,
+            "values": [
+              "Default Title"
+            ]
+          }
+        ]
+      },
+      "7669938323662": {
+        "id": 7669938323662,
+        "title": "Guerniss Raw Biotin Healthy Growth Shampoo And Conditioner 250 ML",
+        "handle": "biotin-healthy-growth-shampoo-and-conditioner-250-ml",
+        "body_html": "<p data-start=\"449\" data-end=\"781\"><strong data-start=\"449\" data-end=\"516\">Guerniss Raw Biotin Healthy Growth Shampoo &amp; Conditioner 250 ml</strong> is a nourishing 2-in-1 hair care solution formulated to gently cleanse, strengthen, and promote healthier hair growth. Powered by <strong data-start=\"647\" data-end=\"657\">Biotin</strong> and <strong data-start=\"662\" data-end=\"675\">Vitamin E</strong>, this formula helps reduce hair fall due to breakage while improving hair strength, thickness, and shine.</p>\n<p data-start=\"783\" data-end=\"1098\">Enriched with <strong data-start=\"797\" data-end=\"829\">D-Panthenol (Pro-Vitamin B5)</strong>, it deeply conditions the hair, leaving it soft, smooth, and manageable after every wash. Natural herbal extracts like <strong data-start=\"949\" data-end=\"980\">Sapindus Mukorossi (Reetha)</strong> and <strong data-start=\"985\" data-end=\"1015\">Acacia Concinna (Shikakai)</strong> help cleanse the scalp gently while maintaining moisture balance and scalp health.</p>\n<p data-start=\"1100\" data-end=\"1255\">This shampoo cleanses effectively without excessive dryness, making it suitable for regular use and all hair types, especially weak, dull, or damaged hair.</p>\n<h2 data-start=\"1561\" data-end=\"1578\"><strong data-start=\"1564\" data-end=\"1578\">How to Use</strong></h2>\n<p data-start=\"1579\" data-end=\"1688\">Apply to wet hair and scalp. Massage gently to create a rich lather, then rinse thoroughly. Repeat if needed.</p>",
+        "published_at": "2026-02-28T13:10:58+06:00",
+        "created_at": "2026-02-28T13:10:56+06:00",
+        "updated_at": "2026-05-10T21:58:14+06:00",
+        "vendor": "Guerniss",
+        "product_type": "",
+        "tags": [],
+        "variants": [
+          {
+            "id": 43409372905678,
+            "title": "Default Title",
+            "option1": "Default Title",
+            "option2": null,
+            "option3": null,
+            "sku": "8943456789520",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": null,
+            "available": true,
+            "price": "650.00",
+            "grams": 250,
+            "compare_at_price": null,
+            "position": 1,
+            "product_id": 7669938323662,
+            "created_at": "2026-02-28T13:10:56+06:00",
+            "updated_at": "2026-05-10T21:58:14+06:00"
+          }
+        ],
+        "images": [
+          {
+            "id": 38792367734990,
+            "created_at": "2026-02-28T13:07:09+06:00",
+            "position": 1,
+            "updated_at": "2026-04-11T11:07:57+06:00",
+            "product_id": 7669938323662,
+            "variant_ids": [],
+            "src": "https://cdn.shopify.com/s/files/1/0656/1877/2174/files/BIOTIN_HEALTHY_GROWTH_SHAMPOO_WITH_CONDITIONER_250ML.jpg?v=1775884077",
+            "width": 2000,
+            "height": 2000
+          },
+          {
+            "id": 38792367767758,
+            "created_at": "2026-02-28T13:07:09+06:00",
+            "position": 2,
+            "updated_at": "2026-04-11T11:21:13+06:00",
+            "product_id": 7669938323662,
+            "variant_ids": [],
+            "src": "https://cdn.shopify.com/s/files/1/0656/1877/2174/files/BIOTIN_HEALTHY_GROWTH_SHAMPOO_WITH_CONDITIONER__250ML.jpg?v=1775884873",
+            "width": 2000,
+            "height": 2000
+          }
+        ],
+        "options": [
+          {
+            "name": "Title",
+            "position": 1,
+            "values": [
+              "Default Title"
+            ]
+          }
+        ]
+      },
+      "7667103924430": {
+        "id": 7667103924430,
+        "title": "Vitamin E glossy locks Shampoo with Conditioner 250 ML",
+        "handle": "vitamin-e-glossy-locks-shampoo-with-conditioner-250-ml",
+        "body_html": "<p data-start=\"468\" data-end=\"801\"><strong data-start=\"468\" data-end=\"526\">Vitamin E Glossy Locks Shampoo with Conditioner 250 ml</strong> is a nourishing 2-in-1 hair care solution designed to cleanse, condition, and restore natural shine in one easy step. Infused with <strong data-start=\"658\" data-end=\"671\">Vitamin E</strong> and <strong data-start=\"676\" data-end=\"708\">D-Panthenol (Pro-Vitamin B5)</strong>, it helps strengthen hair, reduce dryness, and improve overall smoothness and manageability.</p>\n<p data-start=\"803\" data-end=\"1093\">The gentle cleansing formula removes dirt and excess oil without stripping moisture, while <strong data-start=\"894\" data-end=\"933\">Aloe Barbadensis Miller (Aloe Vera)</strong> soothes the scalp and supports healthy-looking hair. With added conditioning agents, this shampoo leaves hair feeling soft, silky, and glossy after every wash.</p>\n<p data-start=\"1095\" data-end=\"1183\">Ideal for daily use, it delivers clean, nourished hair with a lightweight, fresh finish.<br><br>How to Use: Apply to wet hair and scalp. Massage gently to create lather, then rinse thoroughly. Repeat if needed.<br></p>",
+        "published_at": "2026-02-24T15:49:15+06:00",
+        "created_at": "2026-02-24T15:49:13+06:00",
+        "updated_at": "2026-05-10T21:58:14+06:00",
+        "vendor": "Guerniss",
+        "product_type": "",
+        "tags": [],
+        "variants": [
+          {
+            "id": 43384274845902,
+            "title": "Default Title",
+            "option1": "Default Title",
+            "option2": null,
+            "option3": null,
+            "sku": "8943456789544",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": null,
+            "available": true,
+            "price": "650.00",
+            "grams": 0,
+            "compare_at_price": null,
+            "position": 1,
+            "product_id": 7667103924430,
+            "created_at": "2026-02-24T15:49:14+06:00",
+            "updated_at": "2026-05-10T21:58:14+06:00"
+          }
+        ],
+        "images": [
+          {
+            "id": 38769652072654,
+            "created_at": "2026-02-24T15:47:27+06:00",
+            "position": 1,
+            "updated_at": "2026-04-11T12:36:33+06:00",
+            "product_id": 7667103924430,
+            "variant_ids": [],
+            "src": "https://cdn.shopify.com/s/files/1/0656/1877/2174/files/VITAMINE_GLOSSY_LOCKS_SHAMPOO_WITH_CONDITIONER_250ML.jpg?v=1775889393",
+            "width": 2000,
+            "height": 2000
+          },
+          {
+            "id": 38769652105422,
+            "created_at": "2026-02-24T15:47:27+06:00",
+            "position": 2,
+            "updated_at": "2026-04-11T12:38:12+06:00",
+            "product_id": 7667103924430,
+            "variant_ids": [],
+            "src": "https://cdn.shopify.com/s/files/1/0656/1877/2174/files/VITAMINE_GLOSSY_LOCKS_SHAMPOO_WITH_CONDITIONER-250ML.jpg?v=1775889492",
+            "width": 2000,
+            "height": 2000
+          }
+        ],
+        "options": [
+          {
+            "name": "Title",
+            "position": 1,
+            "values": [
+              "Default Title"
+            ]
+          }
+        ]
+      },
+      "7667099959502": {
+        "id": 7667099959502,
+        "title": "Vitamin E glossy locks Shampoo with Conditioner 380 ml",
+        "handle": "vitamin-e-glossy-locks-shampoo-with-conditioner-380-ml",
+        "body_html": "<p data-start=\"468\" data-end=\"801\"><strong data-start=\"468\" data-end=\"526\">Vitamin E Glossy Locks Shampoo with Conditioner 380 ml</strong> is a nourishing 2-in-1 hair care solution designed to cleanse, condition, and restore natural shine in one easy step. Infused with <strong data-start=\"658\" data-end=\"671\">Vitamin E</strong> and <strong data-start=\"676\" data-end=\"708\">D-Panthenol (Pro-Vitamin B5)</strong>, it helps strengthen hair, reduce dryness, and improve overall smoothness and manageability.</p>\n<p data-start=\"803\" data-end=\"1093\">The gentle cleansing formula removes dirt and excess oil without stripping moisture, while <strong data-start=\"894\" data-end=\"933\">Aloe Barbadensis Miller (Aloe Vera)</strong> soothes the scalp and supports healthy-looking hair. With added conditioning agents, this shampoo leaves hair feeling soft, silky, and glossy after every wash.</p>\n<p data-start=\"1095\" data-end=\"1183\">Ideal for daily use, it delivers clean, nourished hair with a lightweight, fresh finish.</p>\n<h2 data-start=\"1445\" data-end=\"1462\"><strong data-start=\"1448\" data-end=\"1462\">How to Use</strong></h2>\n<p data-start=\"1463\" data-end=\"1565\">Apply to wet hair and scalp. Massage gently to create lather, then rinse thoroughly. Repeat if needed.</p>",
+        "published_at": "2026-02-24T15:45:17+06:00",
+        "created_at": "2026-02-24T15:45:15+06:00",
+        "updated_at": "2026-05-10T21:58:14+06:00",
+        "vendor": "Guerniss",
+        "product_type": "",
+        "tags": [],
+        "variants": [
+          {
+            "id": 43384208916686,
+            "title": "Default Title",
+            "option1": "Default Title",
+            "option2": null,
+            "option3": null,
+            "sku": "8943456789490",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": null,
+            "available": true,
+            "price": "980.00",
+            "grams": 380,
+            "compare_at_price": null,
+            "position": 1,
+            "product_id": 7667099959502,
+            "created_at": "2026-02-24T15:45:16+06:00",
+            "updated_at": "2026-05-10T21:58:14+06:00"
+          }
+        ],
+        "images": [
+          {
+            "id": 38769633001678,
+            "created_at": "2026-02-24T15:44:43+06:00",
+            "position": 1,
+            "updated_at": "2026-04-11T13:27:57+06:00",
+            "product_id": 7667099959502,
+            "variant_ids": [],
+            "src": "https://cdn.shopify.com/s/files/1/0656/1877/2174/files/VITAMINE_GLOSSY_LOCKS_SHAMPOO_WITH_CONDITIONER.jpg?v=1775892477",
+            "width": 2000,
+            "height": 2000
+          },
+          {
+            "id": 38769633034446,
+            "created_at": "2026-02-24T15:44:43+06:00",
+            "position": 2,
+            "updated_at": "2026-04-11T13:31:29+06:00",
+            "product_id": 7667099959502,
+            "variant_ids": [],
+            "src": "https://cdn.shopify.com/s/files/1/0656/1877/2174/files/VITAMINE_GLOSSY_LOCKS_SHAMPOO_WITH_CONDITIONER_380ml.jpg?v=1775892689",
+            "width": 2000,
+            "height": 2000
+          }
+        ],
+        "options": [
+          {
+            "name": "Title",
+            "position": 1,
+            "values": [
+              "Default Title"
+            ]
+          }
+        ]
+      },
+      "7666690752718": {
+        "id": 7666690752718,
+        "title": "Guerniss 5% Niacinamide Cream 5X Ceramide",
+        "handle": "guerniss-5-niacinamide-cream-5x-ceramide",
+        "body_html": "<p data-start=\"477\" data-end=\"805\"><strong data-start=\"477\" data-end=\"522\">Guerniss 5% Niacinamide Cream 5X Ceramide</strong> is a lightweight gel-cream moisturizer designed to brighten uneven skin tone, reduce dark spots, and restore the skin’s natural barrier. Formulated with <strong data-start=\"676\" data-end=\"707\">5% Niacinamide (Vitamin B3)</strong> and a <strong data-start=\"714\" data-end=\"737\">5X Ceramide Complex</strong>, it helps improve skin texture while locking in essential moisture.</p>\n<p data-start=\"807\" data-end=\"1166\">Enriched with <strong data-start=\"821\" data-end=\"850\">Centella Asiatica Extract</strong>, the cream soothes sensitive or stressed skin, while <strong data-start=\"904\" data-end=\"926\">Sodium Hyaluronate</strong> delivers deep hydration for a plump, smooth finish. Antioxidant botanical extracts such as <strong data-start=\"1018\" data-end=\"1056\">Dendrobium Officinale Stem Extract</strong> and <strong data-start=\"1061\" data-end=\"1089\">Bacillus/Soybean Ferment</strong> help protect the skin from environmental damage and maintain a healthy glow.</p>\n<p data-start=\"1168\" data-end=\"1295\">The fast-absorbing, non-greasy formula makes it suitable for daily use and all skin types, including oily and combination skin.<br><br></p>\n<h3 data-start=\"1553\" data-end=\"1571\"><strong data-start=\"1557\" data-end=\"1571\">How to Use</strong></h3>\n<p data-start=\"1572\" data-end=\"1705\">Apply an appropriate amount to clean face and neck after toner and serum. Gently massage until fully absorbed. Use morning and night.</p>",
+        "published_at": "2026-02-22T12:32:04+06:00",
+        "created_at": "2026-02-22T12:32:03+06:00",
+        "updated_at": "2026-05-10T21:58:14+06:00",
+        "vendor": "Guerniss",
+        "product_type": "",
+        "tags": [],
+        "variants": [
+          {
+            "id": 43380971110606,
+            "title": "Default Title",
+            "option1": "Default Title",
+            "option2": null,
+            "option3": null,
+            "sku": "4892310200142",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": null,
+            "available": true,
+            "price": "2180.00",
+            "grams": 50,
+            "compare_at_price": "0.00",
+            "position": 1,
+            "product_id": 7666690752718,
+            "created_at": "2026-02-22T12:32:03+06:00",
+            "updated_at": "2026-05-10T21:58:14+06:00"
+          }
+        ],
+        "images": [
+          {
+            "id": 38768653369550,
+            "created_at": "2026-02-24T12:07:17+06:00",
+            "position": 1,
+            "updated_at": "2026-04-11T13:37:41+06:00",
+            "product_id": 7666690752718,
+            "variant_ids": [],
+            "src": "https://cdn.shopify.com/s/files/1/0656/1877/2174/files/5__NiacinamideCream.png?v=1775893061",
+            "width": 2000,
+            "height": 2000
+          },
+          {
+            "id": 38768653402318,
+            "created_at": "2026-02-24T12:07:17+06:00",
+            "position": 2,
+            "updated_at": "2026-04-11T13:38:39+06:00",
+            "product_id": 7666690752718,
+            "variant_ids": [],
+            "src": "https://cdn.shopify.com/s/files/1/0656/1877/2174/files/5__Niacinamide_Cream.png?v=1775893119",
+            "width": 2000,
+            "height": 2000
+          }
+        ],
+        "options": [
+          {
+            "name": "Title",
+            "position": 1,
+            "values": [
+              "Default Title"
+            ]
+          }
+        ]
+      },
+      "7666117640398": {
+        "id": 7666117640398,
+        "title": "Guerniss 5% Niacinamide Toner 100ml",
+        "handle": "guerniss-5-niacinamide-toner-100ml",
+        "body_html": "<p data-start=\"435\" data-end=\"765\"><strong data-start=\"435\" data-end=\"474\">Guerniss 5% Niacinamide Toner 100ml</strong> is a gentle yet effective alcohol-free toner designed to brighten, refine, and hydrate the skin while strengthening its natural barrier. Formulated with <strong data-start=\"628\" data-end=\"659\">5% Niacinamide (Vitamin B3)</strong>, it helps minimize the appearance of pores, reduce dark spots, and improve overall skin tone and texture.</p>\n<p data-start=\"767\" data-end=\"1088\">Infused with <strong data-start=\"780\" data-end=\"810\">5X Ceramides (Ceramide NP)</strong> and <strong data-start=\"815\" data-end=\"844\">Centella Asiatica Extract</strong>, this toner supports the skin barrier, soothes irritation, and protects against environmental stressors. <strong data-start=\"950\" data-end=\"976\">Vitamin B5 (Panthenol)</strong>, <strong data-start=\"978\" data-end=\"989\">Betaine</strong>, and <strong data-start=\"995\" data-end=\"1017\">Sodium Hyaluronate</strong> deliver deep hydration, leaving the skin plump, smooth, and refreshed.</p>\n<p data-start=\"1090\" data-end=\"1349\">Enriched with antioxidant-rich botanical extracts like <strong data-start=\"1145\" data-end=\"1183\">Dendrobium Officinale Stem Extract</strong> and <strong data-start=\"1188\" data-end=\"1217\">Fermented Soybean Extract</strong>, this toner helps promote healthy, radiant-looking skin without feeling sticky or heavy. Suitable for daily use and all skin types.<strong data-start=\"1360\" data-end=\"1376\"></strong></p>\n<h3 data-start=\"1644\" data-end=\"1662\"><strong data-start=\"1648\" data-end=\"1662\">How to Use</strong></h3>\n<p data-start=\"1663\" data-end=\"1808\">After cleansing, apply an appropriate amount to a cotton pad or palms. Gently pat onto face and neck until fully absorbed. Use morning and night.</p>",
+        "published_at": "2026-02-19T11:34:14+06:00",
+        "created_at": "2026-02-19T11:34:13+06:00",
+        "updated_at": "2026-05-10T21:58:14+06:00",
+        "vendor": "Guerniss",
+        "product_type": "",
+        "tags": [],
+        "variants": [
+          {
+            "id": 43378959057102,
+            "title": "Default Title",
+            "option1": "Default Title",
+            "option2": null,
+            "option3": null,
+            "sku": "4892310200128",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": null,
+            "available": true,
+            "price": "1580.00",
+            "grams": 100,
+            "compare_at_price": "0.00",
+            "position": 1,
+            "product_id": 7666117640398,
+            "created_at": "2026-02-19T11:34:13+06:00",
+            "updated_at": "2026-05-10T21:58:14+06:00"
+          }
+        ],
+        "images": [
+          {
+            "id": 38745856835790,
+            "created_at": "2026-02-19T11:32:25+06:00",
+            "position": 1,
+            "updated_at": "2026-02-19T11:32:27+06:00",
+            "product_id": 7666117640398,
+            "variant_ids": [],
+            "src": "https://cdn.shopify.com/s/files/1/0656/1877/2174/files/5_NiacinamideToner_WithBox.jpg?v=1771479147",
+            "width": 2000,
+            "height": 2000
+          },
+          {
+            "id": 38745856803022,
+            "created_at": "2026-02-19T11:32:25+06:00",
+            "position": 2,
+            "updated_at": "2026-02-19T11:32:27+06:00",
+            "product_id": 7666117640398,
+            "variant_ids": [],
+            "src": "https://cdn.shopify.com/s/files/1/0656/1877/2174/files/5_NiacinamideToner.png?v=1771479147",
+            "width": 2000,
+            "height": 2000
+          }
+        ],
+        "options": [
+          {
+            "name": "Title",
+            "position": 1,
+            "values": [
+              "Default Title"
+            ]
+          }
+        ]
+      },
+      "7665259217102": {
+        "id": 7665259217102,
+        "title": "Guerniss Glossy Moisturizing Mirror Lip Gloss 3.5g",
+        "handle": "guerniss-glossy-moisturizing-mirror-lip-gloss-3-5g",
+        "body_html": "<p data-start=\"423\" data-end=\"671\"><strong data-start=\"423\" data-end=\"476\">GUERNISS Glossy Moisturizing Mirror Lip Gloss J03</strong> is a light-colored, nourishing lip gloss designed for a fresh, effortless makeup look. With just one swipe, it instantly moisturizes the lips, leaving them smooth, plump, and beautifully glossy.</p>\n<p data-start=\"673\" data-end=\"979\">The silky, non-sticky formula glides effortlessly onto the lips, while the precision applicator perfectly outlines lip contours for a polished, radiant finish. Enriched with <strong data-start=\"847\" data-end=\"860\">Vitamin E</strong>, glycerin, and moisturizing emollients, this gloss helps keep lips soft, hydrated, and comfortable throughout the day.</p>\n<p data-start=\"981\" data-end=\"1141\">Perfect for everyday wear or layering over lipstick, this mirror lip gloss enhances your natural lip color with a luminous shine that feels as good as it looks.<strong data-start=\"1143\" data-end=\"1160\"></strong></p>\n<h3 data-start=\"1387\" data-end=\"1405\"><strong data-start=\"1391\" data-end=\"1405\">How to Use</strong></h3>\n<p data-start=\"1406\" data-end=\"1544\">Apply an appropriate amount to the lips using a lip brush or applicator. Blend evenly from the center outward for a smooth, glossy finish.</p>\n<h3 data-start=\"1551\" data-end=\"1563\"><strong data-start=\"1555\" data-end=\"1563\">Note</strong></h3>\n<p data-start=\"1564\" data-end=\"1716\"><strong data-start=\"1564\" data-end=\"1576\">GUERNISS</strong> lip gloss is a registered trademark representing GUERNISS beauty products. <strong data-start=\"1652\" data-end=\"1659\">6/S</strong> is a graphic design element and has no specific meaning.</p>",
+        "published_at": "2026-02-17T14:36:18+06:00",
+        "created_at": "2026-02-17T14:36:16+06:00",
+        "updated_at": "2026-05-10T21:58:14+06:00",
+        "vendor": "Guerniss",
+        "product_type": "",
+        "tags": [],
+        "variants": [
+          {
+            "id": 43377059987662,
+            "title": "J01",
+            "option1": "J01",
+            "option2": null,
+            "option3": null,
+            "sku": "6971674265108",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": {
+              "id": 38760252965070,
+              "product_id": 7665259217102,
+              "position": 5,
+              "created_at": "2026-02-22T12:32:37+06:00",
+              "updated_at": "2026-02-22T12:32:39+06:00",
+              "alt": "Guerniss Mirror Lip Gloss J01 glossy moisturizing lip gloss for soft shiny hydrated lips",
+              "width": 2000,
+              "height": 2000,
+              "src": "https://cdn.shopify.com/s/files/1/0656/1877/2174/files/J01.png?v=1771741959",
+              "variant_ids": [
+                43377059987662
+              ]
+            },
+            "available": true,
+            "price": "1380.00",
+            "grams": 4,
+            "compare_at_price": "0.00",
+            "position": 1,
+            "product_id": 7665259217102,
+            "created_at": "2026-02-17T14:36:17+06:00",
+            "updated_at": "2026-05-10T21:58:14+06:00"
+          },
+          {
+            "id": 43377060020430,
+            "title": "J02",
+            "option1": "J02",
+            "option2": null,
+            "option3": null,
+            "sku": "6971674265109",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": {
+              "id": 38760253784270,
+              "product_id": 7665259217102,
+              "position": 6,
+              "created_at": "2026-02-22T12:32:57+06:00",
+              "updated_at": "2026-02-22T12:32:59+06:00",
+              "alt": "Guerniss Mirror Lip Gloss J02 lightweight non sticky lip gloss for smooth glossy lips",
+              "width": 2000,
+              "height": 2000,
+              "src": "https://cdn.shopify.com/s/files/1/0656/1877/2174/files/J02.png?v=1771741979",
+              "variant_ids": [
+                43377060020430
+              ]
+            },
+            "available": true,
+            "price": "1380.00",
+            "grams": 4,
+            "compare_at_price": "0.00",
+            "position": 2,
+            "product_id": 7665259217102,
+            "created_at": "2026-02-17T14:36:17+06:00",
+            "updated_at": "2026-05-10T21:58:14+06:00"
+          },
+          {
+            "id": 43377060053198,
+            "title": "J03",
+            "option1": "J03",
+            "option2": null,
+            "option3": null,
+            "sku": "6971674265110",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": {
+              "id": 38760254472398,
+              "product_id": 7665259217102,
+              "position": 7,
+              "created_at": "2026-02-22T12:33:11+06:00",
+              "updated_at": "2026-02-22T12:33:13+06:00",
+              "alt": "Guerniss Mirror Lip Gloss J03 hydrating lip gloss with vitamin E for plump radiant lips",
+              "width": 2000,
+              "height": 2000,
+              "src": "https://cdn.shopify.com/s/files/1/0656/1877/2174/files/J03.jpg?v=1771741993",
+              "variant_ids": [
+                43377060053198
+              ]
+            },
+            "available": true,
+            "price": "1380.00",
+            "grams": 4,
+            "compare_at_price": "0.00",
+            "position": 3,
+            "product_id": 7665259217102,
+            "created_at": "2026-02-17T14:36:17+06:00",
+            "updated_at": "2026-05-10T21:58:14+06:00"
+          },
+          {
+            "id": 43377060085966,
+            "title": "J04",
+            "option1": "J04",
+            "option2": null,
+            "option3": null,
+            "sku": "6971674265111",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": {
+              "id": 38760255258830,
+              "product_id": 7665259217102,
+              "position": 8,
+              "created_at": "2026-02-22T12:33:28+06:00",
+              "updated_at": "2026-02-22T12:33:30+06:00",
+              "alt": "Guerniss Mirror Lip Gloss J04 glossy finish lip gloss for natural shine and smooth lips",
+              "width": 2000,
+              "height": 2000,
+              "src": "https://cdn.shopify.com/s/files/1/0656/1877/2174/files/J04.png?v=1771742010",
+              "variant_ids": [
+                43377060085966
+              ]
+            },
+            "available": true,
+            "price": "1380.00",
+            "grams": 4,
+            "compare_at_price": "0.00",
+            "position": 4,
+            "product_id": 7665259217102,
+            "created_at": "2026-02-17T14:36:17+06:00",
+            "updated_at": "2026-05-10T21:58:14+06:00"
+          },
+          {
+            "id": 43377060118734,
+            "title": "J05",
+            "option1": "J05",
+            "option2": null,
+            "option3": null,
+            "sku": "6971674265112",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": {
+              "id": 38760255815886,
+              "product_id": 7665259217102,
+              "position": 9,
+              "created_at": "2026-02-22T12:33:43+06:00",
+              "updated_at": "2026-02-22T12:33:45+06:00",
+              "alt": "Guerniss Mirror Lip Gloss J05 moisturizing lip gloss for soft glowing and healthy lips",
+              "width": 2000,
+              "height": 2000,
+              "src": "https://cdn.shopify.com/s/files/1/0656/1877/2174/files/J05.png?v=1771742025",
+              "variant_ids": [
+                43377060118734
+              ]
+            },
+            "available": true,
+            "price": "1380.00",
+            "grams": 4,
+            "compare_at_price": "0.00",
+            "position": 5,
+            "product_id": 7665259217102,
+            "created_at": "2026-02-17T14:36:17+06:00",
+            "updated_at": "2026-05-10T21:58:14+06:00"
+          },
+          {
+            "id": 43377060151502,
+            "title": "J06",
+            "option1": "J06",
+            "option2": null,
+            "option3": null,
+            "sku": "6971674265113",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": {
+              "id": 38760256209102,
+              "product_id": 7665259217102,
+              "position": 10,
+              "created_at": "2026-02-22T12:33:56+06:00",
+              "updated_at": "2026-02-22T12:34:00+06:00",
+              "alt": "Guerniss Mirror Lip Gloss J06 silky smooth lip gloss for shiny plump and hydrated lips",
+              "width": 2000,
+              "height": 2000,
+              "src": "https://cdn.shopify.com/s/files/1/0656/1877/2174/files/J06.png?v=1771742040",
+              "variant_ids": [
+                43377060151502
+              ]
+            },
+            "available": true,
+            "price": "1380.00",
+            "grams": 4,
+            "compare_at_price": "0.00",
+            "position": 6,
+            "product_id": 7665259217102,
+            "created_at": "2026-02-17T14:36:17+06:00",
+            "updated_at": "2026-05-10T21:58:14+06:00"
+          }
+        ],
+        "images": [
+          {
+            "id": 38733759283406,
+            "created_at": "2026-02-17T14:29:29+06:00",
+            "position": 1,
+            "updated_at": "2026-04-11T17:56:57+06:00",
+            "product_id": 7665259217102,
+            "variant_ids": [],
+            "src": "https://cdn.shopify.com/s/files/1/0656/1877/2174/files/MIRROR_LIPGLOSS.png?v=1775908617",
+            "width": 2000,
+            "height": 2000
+          },
+          {
+            "id": 38733759217870,
+            "created_at": "2026-02-17T14:29:29+06:00",
+            "position": 2,
+            "updated_at": "2026-04-11T18:02:27+06:00",
+            "product_id": 7665259217102,
+            "variant_ids": [],
+            "src": "https://cdn.shopify.com/s/files/1/0656/1877/2174/files/Mirror_lip_gloss.png?v=1775908947",
+            "width": 2000,
+            "height": 2000
+          },
+          {
+            "id": 38733759250638,
+            "created_at": "2026-02-17T14:29:29+06:00",
+            "position": 3,
+            "updated_at": "2026-04-11T18:03:07+06:00",
+            "product_id": 7665259217102,
+            "variant_ids": [],
+            "src": "https://cdn.shopify.com/s/files/1/0656/1877/2174/files/Mirror_lipgloss_box.png?v=1775908987",
+            "width": 2000,
+            "height": 2000
+          },
+          {
+            "id": 38733759316174,
+            "created_at": "2026-02-17T14:29:29+06:00",
+            "position": 4,
+            "updated_at": "2026-04-11T18:04:41+06:00",
+            "product_id": 7665259217102,
+            "variant_ids": [],
+            "src": "https://cdn.shopify.com/s/files/1/0656/1877/2174/files/MIRROR_LIPGLOSS_J01.png?v=1775909081",
+            "width": 2000,
+            "height": 2000
+          },
+          {
+            "id": 38760252965070,
+            "created_at": "2026-02-22T12:32:37+06:00",
+            "position": 5,
+            "updated_at": "2026-02-22T12:32:39+06:00",
+            "product_id": 7665259217102,
+            "variant_ids": [
+              43377059987662
+            ],
+            "src": "https://cdn.shopify.com/s/files/1/0656/1877/2174/files/J01.png?v=1771741959",
+            "width": 2000,
+            "height": 2000
+          },
+          {
+            "id": 38760253784270,
+            "created_at": "2026-02-22T12:32:57+06:00",
+            "position": 6,
+            "updated_at": "2026-02-22T12:32:59+06:00",
+            "product_id": 7665259217102,
+            "variant_ids": [
+              43377060020430
+            ],
+            "src": "https://cdn.shopify.com/s/files/1/0656/1877/2174/files/J02.png?v=1771741979",
+            "width": 2000,
+            "height": 2000
+          },
+          {
+            "id": 38760254472398,
+            "created_at": "2026-02-22T12:33:11+06:00",
+            "position": 7,
+            "updated_at": "2026-02-22T12:33:13+06:00",
+            "product_id": 7665259217102,
+            "variant_ids": [
+              43377060053198
+            ],
+            "src": "https://cdn.shopify.com/s/files/1/0656/1877/2174/files/J03.jpg?v=1771741993",
+            "width": 2000,
+            "height": 2000
+          },
+          {
+            "id": 38760255258830,
+            "created_at": "2026-02-22T12:33:28+06:00",
+            "position": 8,
+            "updated_at": "2026-02-22T12:33:30+06:00",
+            "product_id": 7665259217102,
+            "variant_ids": [
+              43377060085966
+            ],
+            "src": "https://cdn.shopify.com/s/files/1/0656/1877/2174/files/J04.png?v=1771742010",
+            "width": 2000,
+            "height": 2000
+          },
+          {
+            "id": 38760255815886,
+            "created_at": "2026-02-22T12:33:43+06:00",
+            "position": 9,
+            "updated_at": "2026-02-22T12:33:45+06:00",
+            "product_id": 7665259217102,
+            "variant_ids": [
+              43377060118734
+            ],
+            "src": "https://cdn.shopify.com/s/files/1/0656/1877/2174/files/J05.png?v=1771742025",
+            "width": 2000,
+            "height": 2000
+          },
+          {
+            "id": 38760256209102,
+            "created_at": "2026-02-22T12:33:56+06:00",
+            "position": 10,
+            "updated_at": "2026-02-22T12:34:00+06:00",
+            "product_id": 7665259217102,
+            "variant_ids": [
+              43377060151502
+            ],
+            "src": "https://cdn.shopify.com/s/files/1/0656/1877/2174/files/J06.png?v=1771742040",
+            "width": 2000,
+            "height": 2000
+          }
+        ],
+        "options": [
+          {
+            "name": "Mirror Lipstick",
+            "position": 1,
+            "values": [
+              "J01",
+              "J02",
+              "J03",
+              "J04",
+              "J05",
+              "J06"
+            ]
+          }
+        ]
+      },
+      "7665256661198": {
+        "id": 7665256661198,
+        "title": "Guerniss Raw Rosemerry Face & body oil",
+        "handle": "guerniss-raw-rosemerry-face-body-oil",
+        "body_html": "<p data-start=\"457\" data-end=\"797\"><strong data-start=\"457\" data-end=\"504\">Guerniss Raw Rosemary Face, Body Oil</strong> is a luxurious, multi-purpose oil crafted to nourish, strengthen, and rejuvenate your skin, hair, and body. Powered by <strong data-start=\"624\" data-end=\"649\">pure rosemary extract</strong> and a blend of botanical oils, this all-in-one formula supports healthy skin, promotes stronger hair, and delivers deep hydration from head to toe.</p>\n<p data-start=\"799\" data-end=\"1191\">Infused with <strong data-start=\"812\" data-end=\"826\">Sesame Oil</strong>, <strong data-start=\"828\" data-end=\"864\">Prunus Dulcis (Sweet Almond) Oil</strong>, <strong data-start=\"866\" data-end=\"903\">Simmondsia Chinensis (Jojoba) Oil</strong>, and <strong data-start=\"909\" data-end=\"938\">Olea Europaea (Olive) Oil</strong>, it helps lock in moisture, improve texture, and restore natural radiance. <strong data-start=\"1014\" data-end=\"1040\">Chamomilla (Chamomile)</strong> soothes sensitive skin, while <strong data-start=\"1071\" data-end=\"1108\">Rosmarinus Officinalis (Rosemary)</strong> and <strong data-start=\"1113\" data-end=\"1141\">Crocus Sativus (Saffron)</strong> help energize dull skin and support scalp health.</p>\n<p data-start=\"1193\" data-end=\"1340\">Lightweight yet deeply nourishing, this oil absorbs easily without leaving a greasy residue, making it ideal for daily use on face, hair, and body.<strong data-start=\"1342\" data-end=\"1359\"></strong></p>\n<p data-start=\"1567\" data-end=\"1584\"><strong data-start=\"1567\" data-end=\"1582\">How to Use:</strong></p>\n<ul data-start=\"1585\" data-end=\"1829\">\n<li data-start=\"1585\" data-end=\"1654\">\n<p data-start=\"1587\" data-end=\"1654\"><strong data-start=\"1587\" data-end=\"1600\">For face:</strong> Apply 2–3 drops and gently massage onto clean skin.</p>\n</li>\n<li data-start=\"1752\" data-end=\"1829\">\n<p data-start=\"1754\" data-end=\"1829\"><strong data-start=\"1754\" data-end=\"1767\">For body:</strong> Apply to damp skin after showering for long-lasting moisture.</p>\n</li>\n</ul>",
+        "published_at": "2026-02-17T13:45:45+06:00",
+        "created_at": "2026-02-17T13:45:43+06:00",
+        "updated_at": "2026-05-10T21:58:14+06:00",
+        "vendor": "Guerniss",
+        "product_type": "",
+        "tags": [],
+        "variants": [
+          {
+            "id": 43377051926734,
+            "title": "Default Title",
+            "option1": "Default Title",
+            "option2": null,
+            "option3": null,
+            "sku": "8943456789209",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": null,
+            "available": true,
+            "price": "980.00",
+            "grams": 100,
+            "compare_at_price": null,
+            "position": 1,
+            "product_id": 7665256661198,
+            "created_at": "2026-02-17T13:45:44+06:00",
+            "updated_at": "2026-05-10T21:58:14+06:00"
+          }
+        ],
+        "images": [
+          {
+            "id": 38733558350030,
+            "created_at": "2026-02-17T13:44:56+06:00",
+            "position": 1,
+            "updated_at": "2026-02-17T13:44:57+06:00",
+            "product_id": 7665256661198,
+            "variant_ids": [],
+            "src": "https://cdn.shopify.com/s/files/1/0656/1877/2174/files/ROSEMARRY_FACE_BODYOIL.jpg?v=1771314297",
+            "width": 2000,
+            "height": 2000
+          }
+        ],
+        "options": [
+          {
+            "name": "Title",
+            "position": 1,
+            "values": [
+              "Default Title"
+            ]
+          }
+        ]
+      },
+      "7665254826190": {
+        "id": 7665254826190,
+        "title": "Guerniss Raw Vitamin E Body Oil 100ml",
+        "handle": "guerniss-raw-vitamin-e-body-oil-100ml",
+        "body_html": "<p data-start=\"390\" data-end=\"692\"><strong data-start=\"390\" data-end=\"425\">Guerniss Raw Vitamin E Body Oil</strong> is a rich yet lightweight body oil designed to deeply nourish, soften, and restore dry or dull skin. Formulated with <strong data-start=\"543\" data-end=\"560\">Vitamin E Oil</strong> and a blend of natural plant oils, this body oil helps lock in moisture, improve skin texture, and promote a healthy, radiant glow.</p>\n<p data-start=\"694\" data-end=\"993\">Infused with <strong data-start=\"707\" data-end=\"743\">Prunus Dulcis (Sweet Almond) Oil</strong>, <strong data-start=\"745\" data-end=\"782\">Simmondsia Chinensis (Jojoba) Oil</strong>, and <strong data-start=\"788\" data-end=\"817\">Olea Europaea (Olive) Oil</strong>, it delivers long-lasting hydration while supporting the skin’s natural barrier. The fast-absorbing formula leaves skin smooth and non-greasy, making it perfect for daily use.</p>\n<p data-start=\"995\" data-end=\"1127\">Ideal for use after showering or before bedtime, this body oil keeps skin supple, nourished, and visibly healthier with regular use.<strong data-start=\"1129\" data-end=\"1146\"></strong></p>\n<p data-start=\"1362\" data-end=\"1491\"><strong data-start=\"1362\" data-end=\"1377\">How to Use:</strong><br data-start=\"1377\" data-end=\"1380\">Apply a few drops onto clean, slightly damp skin and massage gently until absorbed. Use daily for best results.</p>",
+        "published_at": "2026-02-17T13:05:22+06:00",
+        "created_at": "2026-02-17T13:05:21+06:00",
+        "updated_at": "2026-05-10T21:58:14+06:00",
+        "vendor": "Guerniss",
+        "product_type": "",
+        "tags": [],
+        "variants": [
+          {
+            "id": 43377044783310,
+            "title": "Default Title",
+            "option1": "Default Title",
+            "option2": null,
+            "option3": null,
+            "sku": "8943456789230",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": null,
+            "available": true,
+            "price": "1150.00",
+            "grams": 100,
+            "compare_at_price": null,
+            "position": 1,
+            "product_id": 7665254826190,
+            "created_at": "2026-02-17T13:05:21+06:00",
+            "updated_at": "2026-05-10T21:58:14+06:00"
+          }
+        ],
+        "images": [
+          {
+            "id": 38733395951822,
+            "created_at": "2026-02-17T13:04:37+06:00",
+            "position": 1,
+            "updated_at": "2026-04-12T10:16:56+06:00",
+            "product_id": 7665254826190,
+            "variant_ids": [],
+            "src": "https://cdn.shopify.com/s/files/1/0656/1877/2174/files/Vitamin_E_Body_Oil.png?v=1775967416",
+            "width": 2000,
+            "height": 2000
+          },
+          {
+            "id": 38733395984590,
+            "created_at": "2026-02-17T13:04:37+06:00",
+            "position": 2,
+            "updated_at": "2026-04-12T10:18:12+06:00",
+            "product_id": 7665254826190,
+            "variant_ids": [],
+            "src": "https://cdn.shopify.com/s/files/1/0656/1877/2174/files/VITAMIN_E_BODY_OIL_100ml.png?v=1775967492",
+            "width": 2000,
+            "height": 2000
+          }
+        ],
+        "options": [
+          {
+            "name": "Title",
+            "position": 1,
+            "values": [
+              "Default Title"
+            ]
+          }
+        ]
+      },
+      "7665254170830": {
+        "id": 7665254170830,
+        "title": "Guerniss Raw Juliet Rose Water 100ml",
+        "handle": "guerniss-raw-juliet-rose-water-100ml",
+        "body_html": "<p data-start=\"421\" data-end=\"758\"><strong data-start=\"421\" data-end=\"461\">Guerniss Raw Juliet Rose Water 100ml</strong> is a refreshing, multi-purpose skincare essential crafted with <strong data-start=\"525\" data-end=\"556\">Rosa Chinensis Flower Water</strong>, extracted through the <strong data-start=\"580\" data-end=\"599\">Hydrosol Method</strong> to preserve the natural goodness of fresh roses. This gentle formula helps hydrate, calm, and balance the skin while leaving it feeling fresh and revitalized.</p>\n<p data-start=\"760\" data-end=\"1096\">Perfect for daily use, this rose water works as a toner, facial mist, or a soothing splash throughout the day. Its lightweight and non-sticky texture makes it suitable for all skin types, including sensitive skin. With a soft, natural rose aroma, it instantly uplifts your skincare routine while promoting a healthy, glowing complexion.</p>\n<p data-start=\"1328\" data-end=\"1474\"><strong data-start=\"1328\" data-end=\"1343\">How to Use:</strong><br data-start=\"1343\" data-end=\"1346\">Spray directly onto clean face or apply with a cotton pad. Use morning and night, or anytime your skin needs a refreshing boost.</p>",
+        "published_at": "2026-02-17T12:55:57+06:00",
+        "created_at": "2026-02-17T12:55:55+06:00",
+        "updated_at": "2026-05-10T21:58:14+06:00",
+        "vendor": "Guerniss",
+        "product_type": "",
+        "tags": [],
+        "variants": [
+          {
+            "id": 43377043636430,
+            "title": "Default Title",
+            "option1": "Default Title",
+            "option2": null,
+            "option3": null,
+            "sku": "8943456789186",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": null,
+            "available": true,
+            "price": "450.00",
+            "grams": 100,
+            "compare_at_price": null,
+            "position": 1,
+            "product_id": 7665254170830,
+            "created_at": "2026-02-17T12:55:56+06:00",
+            "updated_at": "2026-05-10T21:58:14+06:00"
+          }
+        ],
+        "images": [
+          {
+            "id": 38733341753550,
+            "created_at": "2026-02-17T12:54:40+06:00",
+            "position": 1,
+            "updated_at": "2026-04-12T10:29:02+06:00",
+            "product_id": 7665254170830,
+            "variant_ids": [],
+            "src": "https://cdn.shopify.com/s/files/1/0656/1877/2174/files/JULIET_ROSE_WATER.png?v=1775968142",
+            "width": 2000,
+            "height": 2000
+          },
+          {
+            "id": 38733341786318,
+            "created_at": "2026-02-17T12:54:40+06:00",
+            "position": 2,
+            "updated_at": "2026-04-12T10:29:39+06:00",
+            "product_id": 7665254170830,
+            "variant_ids": [],
+            "src": "https://cdn.shopify.com/s/files/1/0656/1877/2174/files/JULIET_ROSE_WATER_10ml.png?v=1775968179",
+            "width": 2000,
+            "height": 2000
+          }
+        ],
+        "options": [
+          {
+            "name": "Title",
+            "position": 1,
+            "values": [
+              "Default Title"
+            ]
+          }
+        ]
+      },
+      "7662289780942": {
+        "id": 7662289780942,
+        "title": "Guerniss Raw Salicylic Acid 0.5% Toner",
+        "handle": "raw-salicylic-acid-0-5-toner",
+        "body_html": "<p data-start=\"558\" data-end=\"858\"><strong data-start=\"558\" data-end=\"600\">Guerniss Raw Salicylic Acid 0.5% Toner</strong> is a gentle exfoliating toner designed to refine pores, remove excess oil, and promote smoother, clearer skin. Formulated with <strong data-start=\"728\" data-end=\"757\">0.5% Salicylic Acid (BHA)</strong>, it helps unclog pores, reduce breakouts, and control shine without causing dryness or irritation.</p>\n<p data-start=\"860\" data-end=\"1211\">The toner is enriched with <strong data-start=\"887\" data-end=\"900\">Panthenol</strong> for soothing and hydration, <strong data-start=\"929\" data-end=\"942\">Trehalose</strong> for antioxidant protection, and <strong data-start=\"975\" data-end=\"1005\">Glycerin &amp; Butylene Glycol</strong> for maintaining skin moisture. Additional hydrating and stabilizing agents like <strong data-start=\"1086\" data-end=\"1139\">Xylitylglucoside, Anhydroxylitol, and Carrageenan</strong> ensure the skin stays balanced, soft, and comfortable after each use.</p>\n<p data-start=\"1213\" data-end=\"1344\">Lightweight and non-sticky, this toner is perfect for daily use and prepares the skin for the next step in your skincare routine.<br><br></p>\n<p data-start=\"1573\" data-end=\"1766\"><strong data-start=\"1575\" data-end=\"1590\">How to Use:</strong><br data-start=\"1590\" data-end=\"1593\">Apply a small amount to a cotton pad and sweep gently across the face after cleansing. Avoid direct contact with eyes. Use once or twice daily depending on skin tolerance.</p>\n<p data-start=\"1768\" data-end=\"1874\">✨ <strong data-start=\"1770\" data-end=\"1787\">Suitable For:</strong><br data-start=\"1787\" data-end=\"1790\">Oily, combination, and acne-prone skin. Patch test recommended for sensitive skin.</p>",
+        "published_at": "2026-02-01T14:54:52+06:00",
+        "created_at": "2026-02-01T14:54:50+06:00",
+        "updated_at": "2026-05-10T21:58:14+06:00",
+        "vendor": "Guerniss",
+        "product_type": "",
+        "tags": [],
+        "variants": [
+          {
+            "id": 43366943883470,
+            "title": "Default Title",
+            "option1": "Default Title",
+            "option2": null,
+            "option3": null,
+            "sku": "8943456789155",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": null,
+            "available": true,
+            "price": "470.00",
+            "grams": 110,
+            "compare_at_price": null,
+            "position": 1,
+            "product_id": 7662289780942,
+            "created_at": "2026-02-01T14:54:51+06:00",
+            "updated_at": "2026-05-10T21:58:14+06:00"
+          }
+        ],
+        "images": [
+          {
+            "id": 38642330796238,
+            "created_at": "2026-02-01T14:54:32+06:00",
+            "position": 1,
+            "updated_at": "2026-04-12T10:37:29+06:00",
+            "product_id": 7662289780942,
+            "variant_ids": [],
+            "src": "https://cdn.shopify.com/s/files/1/0656/1877/2174/files/Salicylic_Acid_0.5_Toner.jpg?v=1775968649",
+            "width": 2000,
+            "height": 2000
+          },
+          {
+            "id": 38642330763470,
+            "created_at": "2026-02-01T14:54:32+06:00",
+            "position": 2,
+            "updated_at": "2026-04-12T10:38:10+06:00",
+            "product_id": 7662289780942,
+            "variant_ids": [],
+            "src": "https://cdn.shopify.com/s/files/1/0656/1877/2174/files/Salicylic_Acid_0.5_Toner_100ml.jpg?v=1775968690",
+            "width": 2000,
+            "height": 2000
+          }
+        ],
+        "options": [
+          {
+            "name": "Title",
+            "position": 1,
+            "values": [
+              "Default Title"
+            ]
+          }
+        ]
+      },
+      "7662289518798": {
+        "id": 7662289518798,
+        "title": "Guerniss Raw Niacinamide 5% Toner",
+        "handle": "raw-niacinamide-5-toner",
+        "body_html": "<p data-start=\"530\" data-end=\"850\"><strong data-start=\"530\" data-end=\"567\">Guerniss Raw Niacinamide 5% Toner</strong> is a lightweight, soothing toner formulated to brighten the complexion, refine pores, and maintain optimal skin hydration. Powered by <strong data-start=\"702\" data-end=\"733\">5% Niacinamide (Vitamin B3)</strong>, it helps reduce the appearance of dark spots, uneven skin tone, and redness while strengthening the skin barrier.</p>\n<p data-start=\"852\" data-end=\"1158\">This gentle formula is enhanced with <strong data-start=\"889\" data-end=\"900\">Arbutin</strong> to support brightening, <strong data-start=\"925\" data-end=\"947\">Sodium Hyaluronate</strong> for deep hydration, and <strong data-start=\"972\" data-end=\"1002\">Glycerin &amp; Butylene Glycol</strong> to lock in moisture. Mild cleansing agents such as <strong data-start=\"1054\" data-end=\"1080\">Cocamidopropyl Betaine</strong> help remove residual impurities after cleansing without stripping the skin.</p>\n<p data-start=\"1160\" data-end=\"1300\">Suitable for daily use, this toner refreshes the skin, leaving it smooth, balanced, and ready for the next steps in your skincare routine.<br><br></p>\n<p data-start=\"1509\" data-end=\"1688\"><strong data-start=\"1511\" data-end=\"1526\">How to Use:</strong><br data-start=\"1526\" data-end=\"1529\">Apply a small amount to a cotton pad and gently sweep over the face and neck after cleansing. Can also be patted into skin with hands. Use morning and night.</p>\n<p data-start=\"1690\" data-end=\"1819\">✨ <strong data-start=\"1692\" data-end=\"1709\">Suitable For:</strong><br data-start=\"1709\" data-end=\"1712\">All skin types, especially oily, combination, and dull skin. (Patch test recommended for sensitive skin.)</p>",
+        "published_at": "2026-02-01T14:50:25+06:00",
+        "created_at": "2026-02-01T14:50:24+06:00",
+        "updated_at": "2026-05-10T21:58:14+06:00",
+        "vendor": "Guerniss",
+        "product_type": "",
+        "tags": [],
+        "variants": [
+          {
+            "id": 43366943621326,
+            "title": "Default Title",
+            "option1": "Default Title",
+            "option2": null,
+            "option3": null,
+            "sku": "8943456789131",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": null,
+            "available": true,
+            "price": "470.00",
+            "grams": 110,
+            "compare_at_price": null,
+            "position": 1,
+            "product_id": 7662289518798,
+            "created_at": "2026-02-01T14:50:24+06:00",
+            "updated_at": "2026-05-10T21:58:14+06:00"
+          }
+        ],
+        "images": [
+          {
+            "id": 38642320179406,
+            "created_at": "2026-02-01T14:50:08+06:00",
+            "position": 1,
+            "updated_at": "2026-04-12T10:49:00+06:00",
+            "product_id": 7662289518798,
+            "variant_ids": [],
+            "src": "https://cdn.shopify.com/s/files/1/0656/1877/2174/files/Niacinamide_5_Toner_100ml.jpg?v=1775969340",
+            "width": 2000,
+            "height": 2000
+          },
+          {
+            "id": 38642320146638,
+            "created_at": "2026-02-01T14:50:08+06:00",
+            "position": 2,
+            "updated_at": "2026-04-12T10:49:34+06:00",
+            "product_id": 7662289518798,
+            "variant_ids": [],
+            "src": "https://cdn.shopify.com/s/files/1/0656/1877/2174/files/Niacinamide_5_Toner.jpg?v=1775969374",
+            "width": 2000,
+            "height": 2000
+          }
+        ],
+        "options": [
+          {
+            "name": "Title",
+            "position": 1,
+            "values": [
+              "Default Title"
+            ]
+          }
+        ]
+      },
+      "7662289060046": {
+        "id": 7662289060046,
+        "title": "Guerniss Raw Vitamin E Milkplus Facial Cleanser",
+        "handle": "raw-vitamin-e-milkplus-facial-cleanser",
+        "body_html": "<p data-start=\"550\" data-end=\"888\"><strong data-start=\"550\" data-end=\"601\">Guerniss Raw Vitamin E Milkplus Facial Cleanser</strong> is a creamy, gentle face wash formulated to cleanse impurities while deeply nourishing and hydrating the skin. Enriched with <strong data-start=\"727\" data-end=\"748\">Goat Milk Extract</strong>, <strong data-start=\"750\" data-end=\"763\">Vitamin E</strong>, and <strong data-start=\"769\" data-end=\"787\">Pro-Vitamin B5</strong>, this cleanser helps maintain skin softness, comfort, and natural moisture balance after every wash.</p>\n<p data-start=\"890\" data-end=\"1271\">The advanced formula includes <strong data-start=\"920\" data-end=\"935\">Niacinamide</strong> to support an even skin tone and strengthen the skin barrier, while <strong data-start=\"1004\" data-end=\"1023\">Hyaluronic Acid</strong> provides long-lasting hydration. Mild cleansing agents such as <strong data-start=\"1087\" data-end=\"1113\">Cocamidopropyl Betaine</strong> work with fatty acids (Lauric, Myristic, and Stearic Acid) to create a rich lather that effectively removes dirt, oil, and makeup without stripping the skin.</p>\n<p data-start=\"1273\" data-end=\"1544\">Infused with <strong data-start=\"1286\" data-end=\"1319\">Aloe Barbadensis Leaf Extract</strong>, this cleanser soothes and refreshes the skin, leaving it clean, smooth, and healthy-looking. Suitable for daily use, it is ideal for those seeking a nourishing cleanser that supports both cleansing and skincare in one step.<br><br></p>\n<p data-start=\"1804\" data-end=\"1945\"><strong data-start=\"1806\" data-end=\"1821\">How to Use:</strong><br data-start=\"1821\" data-end=\"1824\">Apply a small amount to wet face, gently massage to create foam, then rinse thoroughly with water. Use morning and night.</p>\n<p data-start=\"1947\" data-end=\"2054\">✨ <strong data-start=\"1949\" data-end=\"1966\">Suitable For:</strong><br data-start=\"1966\" data-end=\"1969\">All skin types, especially dry, normal, and sensitive skin. (Patch test recommended.)</p>",
+        "published_at": "2026-02-01T14:42:31+06:00",
+        "created_at": "2026-02-01T14:42:30+06:00",
+        "updated_at": "2026-05-10T21:58:14+06:00",
+        "vendor": "Guerniss",
+        "product_type": "",
+        "tags": [],
+        "variants": [
+          {
+            "id": 43366942638286,
+            "title": "Default Title",
+            "option1": "Default Title",
+            "option2": null,
+            "option3": null,
+            "sku": "8943456789162",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": null,
+            "available": true,
+            "price": "580.00",
+            "grams": 1,
+            "compare_at_price": null,
+            "position": 1,
+            "product_id": 7662289060046,
+            "created_at": "2026-02-01T14:42:30+06:00",
+            "updated_at": "2026-05-10T21:58:14+06:00"
+          }
+        ],
+        "images": [
+          {
+            "id": 38642297077966,
+            "created_at": "2026-02-01T14:40:06+06:00",
+            "position": 1,
+            "updated_at": "2026-02-01T14:40:08+06:00",
+            "product_id": 7662289060046,
+            "variant_ids": [],
+            "src": "https://cdn.shopify.com/s/files/1/0656/1877/2174/files/VitaminEMilkPlus_FaceWash_BoxSide.jpg?v=1769935208",
+            "width": 2000,
+            "height": 2000
+          },
+          {
+            "id": 38642297045198,
+            "created_at": "2026-02-01T14:40:06+06:00",
+            "position": 2,
+            "updated_at": "2026-02-01T14:40:08+06:00",
+            "product_id": 7662289060046,
+            "variant_ids": [],
+            "src": "https://cdn.shopify.com/s/files/1/0656/1877/2174/files/VitaminEMilkPlus_FaceWash.jpg?v=1769935208",
+            "width": 2000,
+            "height": 2000
+          }
+        ],
+        "options": [
+          {
+            "name": "Title",
+            "position": 1,
+            "values": [
+              "Default Title"
+            ]
+          }
+        ]
+      },
+      "7662288634062": {
+        "id": 7662288634062,
+        "title": "Guerniss Raw Niacinamide Micellar Water",
+        "handle": "raw-niacinamide-micellar-water",
+        "body_html": "<p data-end=\"1192\" data-start=\"886\"><strong>Guerniss Raw Niacinamide Micellar Water </strong>is a gentle yet effective cleansing solution designed to remove makeup, dirt, and excess oil while improving overall skin clarity. Enriched with Niacinamide (Vitamin B3), this micellar water helps brighten the complexion, minimize the appearance of pores, and support a healthy skin barrier.</p>\n<p data-end=\"1192\" data-start=\"886\">The formula features mild cleansing agents such as <strong data-end=\"956\" data-start=\"937\">Decyl Glucoside</strong> and <strong data-end=\"988\" data-start=\"961\">PEG-40 Glyceryl Cocoate</strong>, which attract and lift away impurities without stripping the skin. <strong data-end=\"1089\" data-start=\"1057\">Xylitylglucoside and Xylitol</strong> help maintain moisture balance, leaving the skin feeling fresh, soft, and comfortable after every use.</p>\n<p data-end=\"1339\" data-start=\"1194\">Lightweight and non-sticky, this no-rinse cleanser is ideal for daily use and suitable for most skin types, especially oily and combination skin.</p>\n<p data-end=\"1723\" data-start=\"1580\"><strong data-end=\"1597\" data-start=\"1582\">How to Use:</strong><br data-end=\"1600\" data-start=\"1597\">Apply micellar water to a cotton pad and gently wipe over face, eyes, and lips. No rinsing required. Use morning and night.</p>\n<p data-end=\"1852\" data-start=\"1725\">✨ <strong data-end=\"1744\" data-start=\"1727\">Suitable For:</strong><br data-end=\"1747\" data-start=\"1744\">All skin types, especially oily, combination, and dull skin. (Patch test recommended for sensitive skin.)</p>",
+        "published_at": "2026-02-01T14:35:43+06:00",
+        "created_at": "2026-02-01T14:35:42+06:00",
+        "updated_at": "2026-05-10T21:58:14+06:00",
+        "vendor": "Guerniss",
+        "product_type": "",
+        "tags": [],
+        "variants": [
+          {
+            "id": 43366938968270,
+            "title": "Default Title",
+            "option1": "Default Title",
+            "option2": null,
+            "option3": null,
+            "sku": "8943456789247",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": null,
+            "available": true,
+            "price": "430.00",
+            "grams": 110,
+            "compare_at_price": null,
+            "position": 1,
+            "product_id": 7662288634062,
+            "created_at": "2026-02-01T14:35:42+06:00",
+            "updated_at": "2026-05-10T21:58:14+06:00"
+          }
+        ],
+        "images": [
+          {
+            "id": 38642284003534,
+            "created_at": "2026-02-01T14:34:39+06:00",
+            "position": 1,
+            "updated_at": "2026-04-18T10:09:15+06:00",
+            "product_id": 7662288634062,
+            "variant_ids": [],
+            "src": "https://cdn.shopify.com/s/files/1/0656/1877/2174/files/Niacinamide_Micellar_Water.jpg?v=1776485355",
+            "width": 2000,
+            "height": 2000
+          },
+          {
+            "id": 38642283970766,
+            "created_at": "2026-02-01T14:34:39+06:00",
+            "position": 2,
+            "updated_at": "2026-04-18T10:10:05+06:00",
+            "product_id": 7662288634062,
+            "variant_ids": [],
+            "src": "https://cdn.shopify.com/s/files/1/0656/1877/2174/files/Niacinamide_Micellar_Water_120ml.jpg?v=1776485405",
+            "width": 2000,
+            "height": 2000
+          }
+        ],
+        "options": [
+          {
+            "name": "Title",
+            "position": 1,
+            "values": [
+              "Default Title"
+            ]
+          }
+        ]
+      },
+      "7662287651022": {
+        "id": 7662287651022,
+        "title": "Guerniss Raw Glycolic Acid Micellar Water",
+        "handle": "raw-glycolic-acid-micellar-water",
+        "body_html": "<p data-start=\"594\" data-end=\"969\"><strong data-start=\"594\" data-end=\"639\">Guerniss Raw Glycolic Acid Micellar Water</strong> is a multi-tasking cleansing solution that effectively removes makeup, impurities, and excess oil while gently exfoliating the skin for a brighter, smoother appearance. Powered by <strong data-start=\"820\" data-end=\"843\">Glycolic Acid (AHA)</strong>, this micellar water helps improve skin texture, refine pores, and promote a clear, radiant complexion without harsh rubbing.</p>\n<p data-start=\"971\" data-end=\"1304\">The formula is balanced with <strong data-start=\"1000\" data-end=\"1047\">Decyl Glucoside and PEG-40 Glyceryl Cocoate</strong>, mild cleansing agents that lift away dirt and makeup while remaining gentle on the skin. <strong data-start=\"1138\" data-end=\"1157\">Hexylene Glycol</strong> enhances hydration and formula stability, while <strong data-start=\"1206\" data-end=\"1238\">Xylitylglucoside and Xylitol</strong> help maintain skin moisture and prevent dryness during cleansing.</p>\n<p data-start=\"1306\" data-end=\"1491\">Designed for daily use, this lightweight, no-rinse cleanser refreshes the skin without leaving a sticky or tight feeling—making it suitable for normal, oily, and combination skin types.</p>",
+        "published_at": "2026-02-01T14:27:57+06:00",
+        "created_at": "2026-02-01T14:27:55+06:00",
+        "updated_at": "2026-05-10T21:58:14+06:00",
+        "vendor": "Guerniss",
+        "product_type": "",
+        "tags": [],
+        "variants": [
+          {
+            "id": 43366937821390,
+            "title": "Default Title",
+            "option1": "Default Title",
+            "option2": null,
+            "option3": null,
+            "sku": "8943456789278",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": null,
+            "available": true,
+            "price": "430.00",
+            "grams": 110,
+            "compare_at_price": null,
+            "position": 1,
+            "product_id": 7662287651022,
+            "created_at": "2026-02-01T14:27:55+06:00",
+            "updated_at": "2026-05-10T21:58:14+06:00"
+          }
+        ],
+        "images": [
+          {
+            "id": 38642262540494,
+            "created_at": "2026-02-01T14:28:28+06:00",
+            "position": 1,
+            "updated_at": "2026-04-12T10:58:20+06:00",
+            "product_id": 7662287651022,
+            "variant_ids": [],
+            "src": "https://cdn.shopify.com/s/files/1/0656/1877/2174/files/Glycolic_acid_Micellar_Water_100ml.jpg?v=1775969900",
+            "width": 2000,
+            "height": 2000
+          },
+          {
+            "id": 38642262507726,
+            "created_at": "2026-02-01T14:28:28+06:00",
+            "position": 2,
+            "updated_at": "2026-04-12T11:27:02+06:00",
+            "product_id": 7662287651022,
+            "variant_ids": [],
+            "src": "https://cdn.shopify.com/s/files/1/0656/1877/2174/files/Glycolic_acid_Micellar_Water.jpg?v=1775971622",
+            "width": 2000,
+            "height": 2000
+          }
+        ],
+        "options": [
+          {
+            "name": "Title",
+            "position": 1,
+            "values": [
+              "Default Title"
+            ]
+          }
+        ]
+      },
+      "7662280573134": {
+        "id": 7662280573134,
+        "title": "Guerniss Raw Hair Serum",
+        "handle": "raw-hair-serum",
+        "body_html": "<p data-start=\"566\" data-end=\"922\"><strong data-start=\"566\" data-end=\"593\">Guerniss Raw Hair Serum</strong> is a premium leave-in hair serum designed to instantly transform dull, dry, and frizzy hair into smooth, silky, and glossy strands. Powered by advanced silicone technology and enriched with <strong data-start=\"784\" data-end=\"797\">Vitamin E</strong>, this lightweight formula coats each strand evenly, reducing frizz while enhancing natural shine without weighing hair down.</p>\n<p data-start=\"924\" data-end=\"1309\">The blend of <strong data-start=\"937\" data-end=\"1024\">Cyclopentasiloxane, Dimethiconol, Dimethicone Crosspolymer, and Phenyl Trimethicone</strong> creates a protective layer over the hair shaft, helping to seal moisture, prevent breakage, and protect hair from environmental stressors such as heat styling and pollution. Vitamin E works as an antioxidant to nourish hair, improve manageability, and promote healthier-looking locks.</p>\n<p data-start=\"1311\" data-end=\"1464\">Perfect for all hair types, Guerniss Raw Hair Serum absorbs quickly and leaves no greasy residue—making it ideal for daily use on both damp and dry hair.</p>\n<p data-start=\"1311\" data-end=\"1464\"><strong data-start=\"1879\" data-end=\"1896\">Suitable For:</strong><br data-start=\"1896\" data-end=\"1899\">All hair types, including dry, damaged, and chemically treated hair.</p>",
+        "published_at": "2026-02-01T12:21:42+06:00",
+        "created_at": "2026-02-01T12:21:41+06:00",
+        "updated_at": "2026-05-10T21:58:14+06:00",
+        "vendor": "Guerniss",
+        "product_type": "",
+        "tags": [],
+        "variants": [
+          {
+            "id": 43366912786638,
+            "title": "Default Title",
+            "option1": "Default Title",
+            "option2": null,
+            "option3": null,
+            "sku": "8943456789261",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": null,
+            "available": true,
+            "price": "980.00",
+            "grams": 110,
+            "compare_at_price": null,
+            "position": 1,
+            "product_id": 7662280573134,
+            "created_at": "2026-02-01T12:21:41+06:00",
+            "updated_at": "2026-05-10T21:58:14+06:00"
+          }
+        ],
+        "images": [
+          {
+            "id": 38641899503822,
+            "created_at": "2026-02-01T12:21:24+06:00",
+            "position": 1,
+            "updated_at": "2026-04-12T11:39:21+06:00",
+            "product_id": 7662280573134,
+            "variant_ids": [],
+            "src": "https://cdn.shopify.com/s/files/1/0656/1877/2174/files/Hair_Serum.png?v=1775972361",
+            "width": 2000,
+            "height": 2000
+          }
+        ],
+        "options": [
+          {
+            "name": "Title",
+            "position": 1,
+            "values": [
+              "Default Title"
+            ]
+          }
+        ]
+      },
+      "7661092765902": {
+        "id": 7661092765902,
+        "title": "Guerniss Raw Hydro Boost Cleanser With Hyaluronic Acid 100ml",
+        "handle": "raw-hydro-boost-cleanser-with-hyaluronic-acid-100ml",
+        "body_html": "<p data-start=\"602\" data-end=\"930\"><strong data-start=\"602\" data-end=\"668\">Guerniss Raw Hydro Boost Cleanser with Hyaluronic Acid (100ml)</strong> is a gentle, moisture-boosting facial cleanser designed to cleanse the skin without stripping away essential hydration. Ideal for daily use, this refreshing cleanser removes dirt, excess oil, and impurities while maintaining the skin’s natural moisture balance.</p>\n<p data-start=\"932\" data-end=\"1228\">Formulated with <strong data-start=\"948\" data-end=\"988\">Sodium Hyaluronate (Hyaluronic Acid)</strong>, the cleanser helps attract and retain moisture, leaving the skin plump and comfortable after cleansing. <strong data-start=\"1094\" data-end=\"1107\">Panthenol</strong> works to soothe and support the skin barrier, while <strong data-start=\"1160\" data-end=\"1172\">Glycerin</strong> and <strong data-start=\"1177\" data-end=\"1196\">Butylene Glycol</strong> provide long-lasting hydration.</p>\n<p data-start=\"1230\" data-end=\"1514\">Advanced humectants such as <strong data-start=\"1258\" data-end=\"1271\">Trehalose</strong>, <strong data-start=\"1273\" data-end=\"1293\">Xylitylglucoside</strong>, and <strong data-start=\"1299\" data-end=\"1317\">Anhydroxylitol</strong> help strengthen the skin’s moisture network, preventing dryness and tightness. The lightweight gel texture lathers softly and rinses clean, leaving the skin feeling fresh, smooth, and revitalized.</p>\n<p data-start=\"1516\" data-end=\"1612\">With regular use, skin appears healthier, hydrated, and perfectly prepped for toners and serums.</p>\n<h3 data-start=\"2129\" data-end=\"2152\">👩🦰 Suitable For:</h3>\n<p data-start=\"2153\" data-end=\"2216\">All skin types, especially dry, dehydrated, and sensitive skin.</p>\n<h3 data-start=\"2218\" data-end=\"2236\">🕒 How to Use:</h3>\n<p data-start=\"2237\" data-end=\"2364\">Apply a small amount to damp skin, gently massage in circular motions, then rinse thoroughly with water. Use morning and night.</p>",
+        "published_at": "2026-01-27T16:10:27+06:00",
+        "created_at": "2026-01-27T16:10:25+06:00",
+        "updated_at": "2026-05-10T21:58:14+06:00",
+        "vendor": "Guerniss",
+        "product_type": "",
+        "tags": [],
+        "variants": [
+          {
+            "id": 43362706391246,
+            "title": "Default Title",
+            "option1": "Default Title",
+            "option2": null,
+            "option3": null,
+            "sku": "8943456789100",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": null,
+            "available": true,
+            "price": "580.00",
+            "grams": 100,
+            "compare_at_price": null,
+            "position": 1,
+            "product_id": 7661092765902,
+            "created_at": "2026-01-27T16:10:26+06:00",
+            "updated_at": "2026-05-10T21:58:14+06:00"
+          }
+        ],
+        "images": [
+          {
+            "id": 38616366088398,
+            "created_at": "2026-01-27T16:10:08+06:00",
+            "position": 1,
+            "updated_at": "2026-04-12T11:45:03+06:00",
+            "product_id": 7661092765902,
+            "variant_ids": [],
+            "src": "https://cdn.shopify.com/s/files/1/0656/1877/2174/files/Hydro_boost_with_Hyaluronic_Acid_FaceWash.jpg?v=1775972703",
+            "width": 2000,
+            "height": 2000
+          },
+          {
+            "id": 38616366055630,
+            "created_at": "2026-01-27T16:10:08+06:00",
+            "position": 2,
+            "updated_at": "2026-04-12T11:55:45+06:00",
+            "product_id": 7661092765902,
+            "variant_ids": [],
+            "src": "https://cdn.shopify.com/s/files/1/0656/1877/2174/files/Hydro_boost_with_Hyaluronic_Acid_FaceWash_100ml.jpg?v=1775973345",
+            "width": 2000,
+            "height": 2000
+          }
+        ],
+        "options": [
+          {
+            "name": "Title",
+            "position": 1,
+            "values": [
+              "Default Title"
+            ]
+          }
+        ]
+      },
+      "7661090930894": {
+        "id": 7661090930894,
+        "title": "Guerniss Raw Niacinamide 5% Facial Cleanser 100ml",
+        "handle": "raw-niacinamide-5-facial-cleanser-100ml",
+        "body_html": "<h3 data-start=\"402\" data-end=\"435\">Full Product Description</h3>\n<p data-start=\"436\" data-end=\"717\">Guerniss Raw Niacinamide 5% Facial Cleanser is a gentle yet effective daily face wash formulated to cleanse impurities, brighten skin tone, and maintain hydration. This lightweight, foaming cleanser is suitable for all skin types and helps maintain a healthy, glowing complexion.</p>\n<p data-start=\"719\" data-end=\"1151\">Enriched with <strong data-start=\"733\" data-end=\"751\">Niacinamide 5%</strong>, it helps reduce excess oil, minimize pores, and improve skin texture while brightening dull skin. <strong data-start=\"851\" data-end=\"873\">Sodium Hyaluronate</strong> and <strong data-start=\"878\" data-end=\"890\">Glycerin</strong> provide deep hydration, keeping skin soft and supple. Botanical extracts like <strong data-start=\"969\" data-end=\"994\">Aloe Barbadensis Leaf</strong>, <strong data-start=\"996\" data-end=\"1024\">Alaria Esculenta Extract</strong>, and <strong data-start=\"1030\" data-end=\"1061\">Cymbopogon Citratus Extract</strong> soothe and refresh the skin, leaving it calm, smooth, and revitalized after every wash.</p>\n<p data-start=\"1153\" data-end=\"1411\">Free from harsh chemicals, this facial cleanser gently removes dirt, oil, and makeup without stripping the skin of its natural moisture. Perfect for daily use, it preps your skin for serums and moisturizers while maintaining a radiant, balanced complexion.</p>",
+        "published_at": "2026-01-27T15:50:36+06:00",
+        "created_at": "2026-01-27T15:50:34+06:00",
+        "updated_at": "2026-05-10T21:58:14+06:00",
+        "vendor": "Guerniss",
+        "product_type": "",
+        "tags": [
+          "brightening face wash",
+          "face",
+          "hydrating facial cleanser",
+          "niacinamide cleanser",
+          "pore minimizing cleanser",
+          "skincare"
+        ],
+        "variants": [
+          {
+            "id": 43362702360782,
+            "title": "Default Title",
+            "option1": "Default Title",
+            "option2": null,
+            "option3": null,
+            "sku": "8943456789124",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": null,
+            "available": true,
+            "price": "580.00",
+            "grams": 100,
+            "compare_at_price": null,
+            "position": 1,
+            "product_id": 7661090930894,
+            "created_at": "2026-01-27T15:50:35+06:00",
+            "updated_at": "2026-05-10T21:58:14+06:00"
+          }
+        ],
+        "images": [
+          {
+            "id": 38616281710798,
+            "created_at": "2026-01-27T15:43:58+06:00",
+            "position": 1,
+            "updated_at": "2026-01-27T15:43:59+06:00",
+            "product_id": 7661090930894,
+            "variant_ids": [],
+            "src": "https://cdn.shopify.com/s/files/1/0656/1877/2174/files/Niacinamide5__FaceWashBoxSide.jpg?v=1769507039",
+            "width": 2000,
+            "height": 2000
+          },
+          {
+            "id": 38616283545806,
+            "created_at": "2026-01-27T15:44:30+06:00",
+            "position": 2,
+            "updated_at": "2026-01-27T15:44:31+06:00",
+            "product_id": 7661090930894,
+            "variant_ids": [],
+            "src": "https://cdn.shopify.com/s/files/1/0656/1877/2174/files/Niacinamide_5__Face_Wash.jpg?v=1769507071",
+            "width": 2000,
+            "height": 2000
+          }
+        ],
+        "options": [
+          {
+            "name": "Title",
+            "position": 1,
+            "values": [
+              "Default Title"
+            ]
+          }
+        ]
+      },
+      "7661089849550": {
+        "id": 7661089849550,
+        "title": "Guerniss Raw Hydro boost Toner with Hyaluronic Acid 120ml",
+        "handle": "raw-hydro-boost-toner-with-hyaluronic-acid-120ml",
+        "body_html": "<p data-start=\"592\" data-end=\"869\"><strong data-start=\"592\" data-end=\"655\">Guerniss Raw Hydro Boost Toner with Hyaluronic Acid (120ml)</strong> is a lightweight, hydrating toner designed to replenish moisture and refresh the skin. Perfect for daily use, it prepares the skin for serums and moisturizers while boosting hydration and maintaining skin balance.</p>\n<p data-start=\"871\" data-end=\"1250\">Formulated with <strong data-start=\"887\" data-end=\"927\">Sodium Hyaluronate (Hyaluronic Acid)</strong>, the toner deeply hydrates and helps retain moisture for plump, supple skin. <strong data-start=\"1005\" data-end=\"1018\">Panthenol</strong> soothes and repairs, while <strong data-start=\"1046\" data-end=\"1058\">Glycerin</strong> and <strong data-start=\"1063\" data-end=\"1082\">Butylene Glycol</strong> provide long-lasting hydration. <strong data-start=\"1115\" data-end=\"1128\">Trehalose</strong>, <strong data-start=\"1130\" data-end=\"1150\">Xylitylglucoside</strong>, and <strong data-start=\"1156\" data-end=\"1174\">Anhydroxylitol</strong> help strengthen skin moisture retention and support a healthy skin barrier.</p>\n<p data-start=\"1252\" data-end=\"1457\">The lightweight gel-like texture absorbs quickly without stickiness, leaving skin refreshed, smooth, and soft. Gentle stabilizers and thickeners ensure a silky, balanced finish suitable for all skin types.</p>\n<p data-start=\"1459\" data-end=\"1551\">With regular use, your skin feels hydrated, comfortable, and revitalized throughout the day.</p>\n<h3 data-start=\"2124\" data-end=\"2147\">👩🦰 Suitable For:</h3>\n<p data-start=\"2148\" data-end=\"2206\">All skin types, including dry, normal, and sensitive skin.</p>\n<h3 data-start=\"2208\" data-end=\"2226\">🕒 How to Use:</h3>\n<p data-start=\"2227\" data-end=\"2386\">After cleansing, apply a few drops to a cotton pad or directly to palms and gently sweep or pat over the face and neck. Use morning and night for best results.</p>",
+        "published_at": "2026-01-27T15:36:25+06:00",
+        "created_at": "2026-01-27T15:36:23+06:00",
+        "updated_at": "2026-05-10T21:58:14+06:00",
+        "vendor": "Guerniss",
+        "product_type": "",
+        "tags": [],
+        "variants": [
+          {
+            "id": 43362696167630,
+            "title": "Default Title",
+            "option1": "Default Title",
+            "option2": null,
+            "option3": null,
+            "sku": "8943456789117",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": null,
+            "available": true,
+            "price": "470.00",
+            "grams": 120,
+            "compare_at_price": null,
+            "position": 1,
+            "product_id": 7661089849550,
+            "created_at": "2026-01-27T15:36:23+06:00",
+            "updated_at": "2026-05-10T21:58:14+06:00"
+          }
+        ],
+        "images": [
+          {
+            "id": 38616147755214,
+            "created_at": "2026-01-27T15:20:31+06:00",
+            "position": 1,
+            "updated_at": "2026-01-27T15:20:33+06:00",
+            "product_id": 7661089849550,
+            "variant_ids": [],
+            "src": "https://cdn.shopify.com/s/files/1/0656/1877/2174/files/HydroboostwithHyaluronicAcid_TonerBoxSide.jpg?v=1769505633",
+            "width": 2000,
+            "height": 2000
+          }
+        ],
+        "options": [
+          {
+            "name": "Title",
+            "position": 1,
+            "values": [
+              "Default Title"
+            ]
+          }
+        ]
+      },
+      "7661087457486": {
+        "id": 7661087457486,
+        "title": "Guerniss Raw Salicylic Acid 0.5% Facial Cleanser 100ml",
+        "handle": "raw-salicylic-acid-0-5-facial-cleanser-100ml",
+        "body_html": "<h3 data-start=\"422\" data-end=\"455\">Full Product Description</h3>\n<p data-start=\"456\" data-end=\"793\">Guerniss Raw Salicylic Acid Facial Cleanser is a powerful daily face wash designed to target acne, excess oil, and impurities while maintaining hydration and skin comfort. This gentle yet effective cleanser penetrates deep into pores to remove dirt, dead skin cells, and sebum, helping prevent breakouts and promote a clear complexion.</p>\n<p data-start=\"795\" data-end=\"1178\">Formulated with <strong data-start=\"811\" data-end=\"829\">Salicylic Acid</strong>, a proven BHA exfoliant, it reduces acne and unclogs pores. <strong data-start=\"890\" data-end=\"930\">Sodium Hyaluronate (Hyaluronic Acid)</strong> and <strong data-start=\"935\" data-end=\"947\">Glycerin</strong> provide deep hydration, preventing dryness after cleansing. <strong data-start=\"1008\" data-end=\"1033\">Aloe Barbadensis Leaf</strong> and botanical extracts like <strong data-start=\"1062\" data-end=\"1082\">Alaria Esculenta</strong> and <strong data-start=\"1087\" data-end=\"1110\">Cymbopogon Citratus</strong> soothe, calm, and refresh the skin, leaving it soft and balanced.</p>\n<p data-start=\"1180\" data-end=\"1327\">With a lightweight, non-greasy texture, this facial cleanser is suitable for daily use and all skin types, particularly oily and acne-prone skin.</p>",
+        "published_at": "2026-01-27T15:08:00+06:00",
+        "created_at": "2026-01-27T15:07:58+06:00",
+        "updated_at": "2026-05-10T21:58:14+06:00",
+        "vendor": "Guerniss",
+        "product_type": "",
+        "tags": [
+          "acne facial wash",
+          "exfoliating face wash",
+          "face",
+          "pore cleansing cleanser",
+          "salicylic acid cleanser",
+          "skincare"
+        ],
+        "variants": [
+          {
+            "id": 43362689712334,
+            "title": "Default Title",
+            "option1": "Default Title",
+            "option2": null,
+            "option3": null,
+            "sku": "8943456789148",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": null,
+            "available": true,
+            "price": "580.00",
+            "grams": 100,
+            "compare_at_price": null,
+            "position": 1,
+            "product_id": 7661087457486,
+            "created_at": "2026-01-27T15:07:59+06:00",
+            "updated_at": "2026-05-10T21:58:14+06:00"
+          }
+        ],
+        "images": [
+          {
+            "id": 38615979196622,
+            "created_at": "2026-01-27T14:43:40+06:00",
+            "position": 1,
+            "updated_at": "2026-04-18T09:45:00+06:00",
+            "product_id": 7661087457486,
+            "variant_ids": [],
+            "src": "https://cdn.shopify.com/s/files/1/0656/1877/2174/files/Salicylic_Acid0.5__FaceWash.jpg?v=1776483900",
+            "width": 2000,
+            "height": 2000
+          },
+          {
+            "id": 38615980605646,
+            "created_at": "2026-01-27T14:43:59+06:00",
+            "position": 2,
+            "updated_at": "2026-01-27T14:44:00+06:00",
+            "product_id": 7661087457486,
+            "variant_ids": [],
+            "src": "https://cdn.shopify.com/s/files/1/0656/1877/2174/files/Salicylic_Acid_0.5__Face_Wash.jpg?v=1769503440",
+            "width": 2000,
+            "height": 2000
+          }
+        ],
+        "options": [
+          {
+            "name": "Title",
+            "position": 1,
+            "values": [
+              "Default Title"
+            ]
+          }
+        ]
+      },
+      "7661073498318": {
+        "id": 7661073498318,
+        "title": "Guerniss Raw Vitamin E Moisturizing Toner 120ml",
+        "handle": "raw-vitamin-e-moisturizing-toner-120ml",
+        "body_html": "<p data-start=\"574\" data-end=\"871\"><strong data-start=\"574\" data-end=\"627\">Guerniss Raw Vitamin E Moisturizing Toner (120ml)</strong> is a gentle, alcohol-free hydrating toner designed to replenish moisture, soothe the skin, and prepare it for the next steps of your skincare routine. This lightweight formula instantly refreshes the skin while maintaining its natural balance.</p>\n<p data-start=\"873\" data-end=\"1159\">Infused with <strong data-start=\"886\" data-end=\"920\">Vitamin E (Tocopheryl Acetate)</strong>, the toner provides antioxidant protection and helps nourish the skin for a healthier, smoother appearance. <strong data-start=\"1029\" data-end=\"1051\">Sodium Hyaluronate</strong> and <strong data-start=\"1056\" data-end=\"1068\">Glycerin</strong> deliver deep hydration, helping to keep the skin plump and comfortable throughout the day.</p>\n<p data-start=\"1161\" data-end=\"1451\">Soothing ingredients such as <strong data-start=\"1190\" data-end=\"1214\">Aloe Vera Leaf Juice</strong> calm and refresh the skin, while <strong data-start=\"1248\" data-end=\"1292\">Lemongrass (Cymbopogon Citratus) Extract</strong> and <strong data-start=\"1297\" data-end=\"1309\">Sea Salt</strong> help purify and revitalize tired skin. Silky agents like <strong data-start=\"1367\" data-end=\"1389\">PEG-12 Dimethicone</strong> ensure a smooth, soft finish without heaviness or stickiness.</p>\n<p data-start=\"1453\" data-end=\"1558\">With regular use, your skin feels hydrated, refreshed, and perfectly prepped for serums and moisturizers.</p>\n<h3 data-start=\"2081\" data-end=\"2104\">Suitable For:</h3>\n<p data-start=\"2105\" data-end=\"2163\">All skin types, including dry, normal, and sensitive skin.</p>\n<h3 data-start=\"2165\" data-end=\"2183\">🕒 How to Use:</h3>\n<p data-start=\"2184\" data-end=\"2315\">After cleansing, apply toner to a cotton pad or palms and gently sweep or pat over the face and neck. Use daily, morning and night.</p>",
+        "published_at": "2026-01-27T14:32:06+06:00",
+        "created_at": "2026-01-27T14:32:04+06:00",
+        "updated_at": "2026-05-10T21:58:14+06:00",
+        "vendor": "Guerniss",
+        "product_type": "",
+        "tags": [],
+        "variants": [
+          {
+            "id": 43362611790030,
+            "title": "Default Title",
+            "option1": "Default Title",
+            "option2": null,
+            "option3": null,
+            "sku": "8943456789179",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": null,
+            "available": true,
+            "price": "470.00",
+            "grams": 100,
+            "compare_at_price": null,
+            "position": 1,
+            "product_id": 7661073498318,
+            "created_at": "2026-01-27T14:32:05+06:00",
+            "updated_at": "2026-05-10T21:58:14+06:00"
+          }
+        ],
+        "images": [
+          {
+            "id": 38768602448078,
+            "created_at": "2026-02-24T11:57:11+06:00",
+            "position": 1,
+            "updated_at": "2026-04-18T10:07:21+06:00",
+            "product_id": 7661073498318,
+            "variant_ids": [],
+            "src": "https://cdn.shopify.com/s/files/1/0656/1877/2174/files/Vitamin_E_Toner_120ml.jpg?v=1776485241",
+            "width": 2000,
+            "height": 2000
+          },
+          {
+            "id": 38615684972750,
+            "created_at": "2026-01-27T14:31:09+06:00",
+            "position": 2,
+            "updated_at": "2026-04-18T10:07:28+06:00",
+            "product_id": 7661073498318,
+            "variant_ids": [],
+            "src": "https://cdn.shopify.com/s/files/1/0656/1877/2174/files/Vitamin_E_Toner.jpg?v=1776485248",
+            "width": 2000,
+            "height": 2000
+          }
+        ],
+        "options": [
+          {
+            "name": "Title",
+            "position": 1,
+            "values": [
+              "Default Title"
+            ]
+          }
+        ]
+      },
+      "7661067632846": {
+        "id": 7661067632846,
+        "title": "Guerniss Raw Floral Shower Gel 250ml",
+        "handle": "raw-floral-shower-gel-250ml",
+        "body_html": "<h2>Experience the Refreshing Power of Guerniss Raw Floral Shower Gel</h2>\n<p>Guerniss Raw Floral Shower Gel is a gentle yet effective daily body cleanser designed to refresh, hydrate, and brighten your skin. This luxurious gel produces a rich, foamy lather that cleanses deeply without stripping your skin's natural moisture balance. With every use, it leaves your skin feeling soft, smooth, and delicately scented. If you seek the best floral body wash, this product offers an unmatched shower experience that nourishes and revitalizes your skin.</p>\n<h3>Key Ingredients That Set This Floral Shower Gel Apart</h3>\n<p>Infused with powerful ingredients like <strong>Glutathione</strong> and <strong>Niacinamide</strong>, this floral body wash helps improve skin tone and reduce dullness. These components work synergistically to promote a healthy, radiant glow, making it an essential part of your daily skincare routine. The shower gel also contains <strong>Glycerin</strong>, a humectant known for its deep hydration properties that ensure your skin feels moisturized long after your shower.</p>\n<p>Botanical extracts such as <strong>Rose Chinensis</strong>, <strong>Lavender</strong>, and <strong>Rosemary</strong> further enhance this formula. These floral extracts soothe and calm the skin, easing any irritation while invigorating your senses. The floral notes create a refreshing shower experience that closely resembles a flower body wash designed with your skin’s health in mind.</p>\n<h3>Benefits of Using This Floral Shower Gel Daily</h3>\n<ul>\n<li>\n<strong>Gentle cleansing:</strong> It removes dirt and impurities while preserving your skin's moisture.</li>\n<li>\n<strong>Brightening effect:</strong> Promotes even skin tone and reduces dullness.</li>\n<li>\n<strong>Hydration:</strong> Glycerin and botanical extracts provide long-lasting moisture.</li>\n<li>\n<strong>Soothing properties:</strong> Floral extracts calm and refresh your skin.</li>\n<li>\n<strong>Suitable for all skin types:</strong> Perfect for daily use regardless of skin sensitivity.</li>\n</ul>\n<p>This shower gel is the ultimate floral body wash for those wanting to combine skincare benefits with a delightful aroma. It’s not just a gel; it’s a multi-beneficial formula that supports healthy skin while energizing your shower routine.</p>\n<h2>Why Choose Guerniss Raw Floral Shower Gel for Your Shower Routine</h2>\n<p>The floral scent offers a unique blend that captivates the senses without overwhelming them. Daily use helps you maintain clean, nourished, and refreshed skin. This floral shower gel is suitable for all skin types, emphasizing gentle care without sacrificing effectiveness. Its formulation balances cleansing with hydration, unlike harsh soaps that can dry your skin.</p>\n<p>Many floral body washes fail to combine hydration with brightening effects, but this gel does both. By incorporating ingredients such as glutathione, niacinamide, and floral extracts, it stands out among other shower gels. Using it regularly ensures your skin feels and looks its best.</p>\n<h3>Floral Body Wash Ingredients That Make a Difference</h3>\n<ul>\n<li>\n<strong>Glutathione:</strong> An antioxidant that brightens the skin and improves tone.</li>\n<li>\n<strong>Niacinamide:</strong> Reduces dullness and promotes an even complexion.</li>\n<li>\n<strong>Glycerin:</strong> Provides deep and lasting hydration.</li>\n<li>\n<strong>Rose Chinensis Extract:</strong> Soothes and nourishes vulnerable skin.</li>\n<li>\n<strong>Lavender Extract:</strong> Calms and refreshes with a natural floral aroma.</li>\n<li>\n<strong>Rosemary Extract:</strong> Revitalizes and energizes skin during your shower.</li>\n</ul>\n<p>The purity of these ingredients and their combined effects are the reasons this gel remains one of the best floral body wash options on the market today. The natural botanical infusion makes each shower feel like a spa treatment, leaving behind a soft, radiant glow.</p>\n<h2>Enhance Your Skin Health with This Floral Shower Gel</h2>\n<p>Alongside a nourishing formula, this gel maintains your skin's natural moisture during cleansing. It helps prevent dryness and irritation often caused by traditional body washes. By offering hydration through glycerin and calming botanical extracts, it supports skin barrier protection and cellular renewal.</p>\n<p>If you love shower products with floral notes, this gel is the perfect choice. It blends floral elegance with high-performance skincare benefits, ideal for anyone wanting a floral body wash that truly cares for the skin.</p>\n<h3>Incorporate a Rose-Inspired Cleanse into Your Shower Routine</h3>\n<p>Rose Chinensis, an essential component of this gel, acts as a natural botanical infusion. This ingredient provides gentle cleansing while adding extra softness. The combination of rose, lavender, and rosemary extracts helps transform your shower into a calming floral escape.</p>\n<p>Whether you seek a refreshing floral gel or a hydrating aloe vera gel alternative, Guerniss Raw Floral Shower Gel is a comprehensive solution. It cleanses without drying and leaves a floral scent that stays long after your shower ends.</p>\n<h2>Perfect for All Skin Types and Concerns</h2>\n<p>From dry to sensitive skin, this floral shower gel was designed with universal compatibility in mind. You can use it every day without worry, as it blends powerful actives with mild cleansers. The formula balances brightening, hydration, and soothing effects for an all-round care experience.</p>\n<p>With Guerniss Raw Floral Shower Gel, you receive a premium body wash flower blend that nourishes and delights your skin daily. It’s an ideal product for people who desire freshness, moisture, and a subtle floral fragrance in their shower routine.</p>",
+        "published_at": "2026-01-27T14:20:03+06:00",
+        "created_at": "2026-01-27T14:20:02+06:00",
+        "updated_at": "2026-05-10T21:58:14+06:00",
+        "vendor": "Guerniss",
+        "product_type": "",
+        "tags": [
+          "best body wash",
+          "body wash",
+          "brightening body wash",
+          "Hydrating",
+          "skincare"
+        ],
+        "variants": [
+          {
+            "id": 43362581151950,
+            "title": "Default Title",
+            "option1": "Default Title",
+            "option2": null,
+            "option3": null,
+            "sku": "8943456789308",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": null,
+            "available": true,
+            "price": "370.00",
+            "grams": 250,
+            "compare_at_price": null,
+            "position": 1,
+            "product_id": 7661067632846,
+            "created_at": "2026-01-27T14:20:02+06:00",
+            "updated_at": "2026-05-10T21:58:14+06:00"
+          }
+        ],
+        "images": [
+          {
+            "id": 38615609409742,
+            "created_at": "2026-01-27T14:14:03+06:00",
+            "position": 1,
+            "updated_at": "2026-01-27T14:14:05+06:00",
+            "product_id": 7661067632846,
+            "variant_ids": [],
+            "src": "https://cdn.shopify.com/s/files/1/0656/1877/2174/files/Floral_ShowerGel.jpg?v=1769501645",
+            "width": 2000,
+            "height": 2000
+          }
+        ],
+        "options": [
+          {
+            "name": "Title",
+            "position": 1,
+            "values": [
+              "Default Title"
+            ]
+          }
+        ]
+      },
+      "7661061996750": {
+        "id": 7661061996750,
+        "title": "Guerniss Raw Bloom Shower Gel 250ml",
+        "handle": "raw-bloom-shower-gel-250ml",
+        "body_html": "<h3 data-start=\"375\" data-end=\"408\">Full Product Description</h3>\n<p data-start=\"409\" data-end=\"694\">Guerniss Raw Bloom Shower Gel is a luxurious daily body cleanser that gently removes impurities while providing hydration and nourishment for smooth, healthy-looking skin. Its rich foam creates a soothing bathing experience, leaving your skin refreshed, soft, and lightly fragranced.</p>\n<p data-start=\"696\" data-end=\"1113\">Infused with <strong data-start=\"709\" data-end=\"724\">Glutathione</strong>, this shower gel helps brighten dull skin, while <strong data-start=\"774\" data-end=\"787\">Vitamin E</strong> nourishes and protects against environmental stressors. <strong data-start=\"844\" data-end=\"856\">Glycerin</strong> and <strong data-start=\"861\" data-end=\"887\">Cocamidopropyl Betaine</strong> ensure deep hydration and gentle cleansing without drying the skin. Botanical extracts like <strong data-start=\"980\" data-end=\"998\">Rose Chinensis</strong>, <strong data-start=\"1000\" data-end=\"1012\">Lavender</strong>, and <strong data-start=\"1018\" data-end=\"1030\">Rosemary</strong> soothe, calm, and refresh the skin, giving you a revitalizing shower experience.</p>\n<p data-start=\"1115\" data-end=\"1293\">With a lightweight, non-drying formula, Guerniss Raw Bloom Shower Gel is ideal for all skin types and perfect for daily use, leaving skin feeling clean, nourished, and radiant.</p>",
+        "published_at": "2026-01-27T13:08:08+06:00",
+        "created_at": "2026-01-27T13:08:06+06:00",
+        "updated_at": "2026-05-10T21:58:14+06:00",
+        "vendor": "Guerniss",
+        "product_type": "",
+        "tags": [
+          "body wash",
+          "brightening body wash",
+          "hydrating body wash",
+          "skincare"
+        ],
+        "variants": [
+          {
+            "id": 43361636450510,
+            "title": "Default Title",
+            "option1": "Default Title",
+            "option2": null,
+            "option3": null,
+            "sku": "8943456789292",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": null,
+            "available": true,
+            "price": "370.00",
+            "grams": 250,
+            "compare_at_price": null,
+            "position": 1,
+            "product_id": 7661061996750,
+            "created_at": "2026-01-27T13:08:07+06:00",
+            "updated_at": "2026-05-10T21:58:14+06:00"
+          }
+        ],
+        "images": [
+          {
+            "id": 38615279829198,
+            "created_at": "2026-01-27T13:04:08+06:00",
+            "position": 1,
+            "updated_at": "2026-01-27T13:04:10+06:00",
+            "product_id": 7661061996750,
+            "variant_ids": [],
+            "src": "https://cdn.shopify.com/s/files/1/0656/1877/2174/files/BloomShowerGel.jpg?v=1769497450",
+            "width": 2000,
+            "height": 2000
+          }
+        ],
+        "options": [
+          {
+            "name": "Title",
+            "position": 1,
+            "values": [
+              "Default Title"
+            ]
+          }
+        ]
+      },
+      "7661058883790": {
+        "id": 7661058883790,
+        "title": "Guerniss Raw Cloud Touch Shower Gel 250ml",
+        "handle": "raw-cloud-touch-shower-gel-250ml",
+        "body_html": "<h3 data-start=\"358\" data-end=\"391\">Full Product Description</h3>\n<p data-start=\"392\" data-end=\"690\">Guerniss Raw Cloud Touch Shower Gel is a luxurious daily body cleanser designed to gently wash away dirt and impurities while keeping your skin soft, hydrated, and refreshed. Its rich, foamy lather delivers a soothing shower experience, leaving your skin feeling clean without dryness or tightness.</p>\n<p data-start=\"692\" data-end=\"1027\">Powered by <strong data-start=\"703\" data-end=\"718\">Glutathione</strong>, this shower gel helps brighten and revive dull-looking skin, while <strong data-start=\"787\" data-end=\"806\">Hyaluronic Acid</strong> and <strong data-start=\"811\" data-end=\"823\">Glycerin</strong> deeply hydrate and lock in moisture. Botanical extracts like <strong data-start=\"885\" data-end=\"903\">Rose Chinensis</strong>, <strong data-start=\"905\" data-end=\"917\">Rosemary</strong>, and <strong data-start=\"923\" data-end=\"932\">Cocoa</strong> nourish and soothe the skin, providing antioxidant protection and a naturally refreshing feel.</p>\n<p data-start=\"1029\" data-end=\"1260\">With a lightweight, non-drying formula and a pleasant fragrance, Guerniss Raw Cloud Touch Shower Gel is perfect for everyday use, suitable for all skin types, and ideal for maintaining smooth, healthy-looking skin from head to toe.</p>",
+        "published_at": "2026-01-27T12:44:54+06:00",
+        "created_at": "2026-01-27T12:44:53+06:00",
+        "updated_at": "2026-05-10T21:58:14+06:00",
+        "vendor": "Guerniss",
+        "product_type": "",
+        "tags": [
+          "body wash",
+          "brightening body wash",
+          "glutathione shower gel",
+          "hydrating body wash",
+          "shower gel",
+          "skincare"
+        ],
+        "variants": [
+          {
+            "id": 43361627078862,
+            "title": "Default Title",
+            "option1": "Default Title",
+            "option2": null,
+            "option3": null,
+            "sku": "8943456789285",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": null,
+            "available": true,
+            "price": "370.00",
+            "grams": 250,
+            "compare_at_price": null,
+            "position": 1,
+            "product_id": 7661058883790,
+            "created_at": "2026-01-27T12:44:53+06:00",
+            "updated_at": "2026-05-10T21:58:14+06:00"
+          }
+        ],
+        "images": [
+          {
+            "id": 38615159177422,
+            "created_at": "2026-01-27T12:38:58+06:00",
+            "position": 1,
+            "updated_at": "2026-01-27T12:39:00+06:00",
+            "product_id": 7661058883790,
+            "variant_ids": [],
+            "src": "https://cdn.shopify.com/s/files/1/0656/1877/2174/files/CloudTouchShowerGel.jpg?v=1769495940",
+            "width": 2000,
+            "height": 2000
+          }
+        ],
+        "options": [
+          {
+            "name": "Title",
+            "position": 1,
+            "values": [
+              "Default Title"
+            ]
+          }
+        ]
+      },
+      "7661058490574": {
+        "id": 7661058490574,
+        "title": "Guerniss Raw Glycolic Acid 2% Serum 30ml",
+        "handle": "raw-glycolic-acid-serum-30ml",
+        "body_html": "<h3 data-start=\"329\" data-end=\"362\">Full Product Description</h3>\n<p data-start=\"363\" data-end=\"696\">Guerniss Raw Glycolic Acid Serum is a gentle yet effective exfoliating treatment designed to improve skin texture, brighten dull complexion, and promote a smoother, more radiant appearance. This lightweight formula works on the skin’s surface to remove dead skin cells and encourage cell turnover for fresher, healthier-looking skin.</p>\n<p data-start=\"698\" data-end=\"1127\">Formulated with <strong data-start=\"714\" data-end=\"731\">Glycolic Acid</strong>, a powerful AHA exfoliant, this serum helps fade dark spots, refine pores, and enhance skin clarity over time. <strong data-start=\"843\" data-end=\"858\">Niacinamide</strong> supports skin barrier health and evens out skin tone, while <strong data-start=\"919\" data-end=\"952\">Aloe Barbadensis Leaf Extract</strong> and <strong data-start=\"957\" data-end=\"970\">Panthenol</strong> soothe and calm the skin, reducing irritation and dryness. <strong data-start=\"1030\" data-end=\"1042\">Glycerin</strong> and <strong data-start=\"1047\" data-end=\"1067\">Propylene Glycol</strong> deliver essential hydration to keep skin soft and balanced.</p>\n<p data-start=\"1129\" data-end=\"1300\">With a non-sticky, fast-absorbing texture, this serum layers easily under moisturizer and sunscreen, making it suitable for nighttime use as part of your skincare routine.</p>",
+        "published_at": "2026-01-27T12:33:15+06:00",
+        "created_at": "2026-01-27T12:33:14+06:00",
+        "updated_at": "2026-05-10T21:58:14+06:00",
+        "vendor": "Guerniss",
+        "product_type": "",
+        "tags": [
+          "face",
+          "Serum",
+          "skincare"
+        ],
+        "variants": [
+          {
+            "id": 43361625407694,
+            "title": "Default Title",
+            "option1": "Default Title",
+            "option2": null,
+            "option3": null,
+            "sku": "8943456789414",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": null,
+            "available": true,
+            "price": "720.00",
+            "grams": 30,
+            "compare_at_price": null,
+            "position": 1,
+            "product_id": 7661058490574,
+            "created_at": "2026-01-27T12:33:14+06:00",
+            "updated_at": "2026-05-10T21:58:14+06:00"
+          }
+        ],
+        "images": [
+          {
+            "id": 38615111467214,
+            "created_at": "2026-01-27T12:28:17+06:00",
+            "position": 1,
+            "updated_at": "2026-01-27T12:28:19+06:00",
+            "product_id": 7661058490574,
+            "variant_ids": [],
+            "src": "https://cdn.shopify.com/s/files/1/0656/1877/2174/files/GlycolicAcidSerum_WithBox.jpg?v=1769495299",
+            "width": 2000,
+            "height": 2000
+          },
+          {
+            "id": 38615112483022,
+            "created_at": "2026-01-27T12:28:32+06:00",
+            "position": 2,
+            "updated_at": "2026-01-27T12:28:33+06:00",
+            "product_id": 7661058490574,
+            "variant_ids": [],
+            "src": "https://cdn.shopify.com/s/files/1/0656/1877/2174/files/Glycolic_Acid_Serum.jpg?v=1769495313",
+            "width": 2000,
+            "height": 2000
+          }
+        ],
+        "options": [
+          {
+            "name": "Title",
+            "position": 1,
+            "values": [
+              "Default Title"
+            ]
+          }
+        ]
+      },
+      "7661058130126": {
+        "id": 7661058130126,
+        "title": "Guerniss Raw Glutathione Vitamin C Body and Face Scrub 200ml",
+        "handle": "raw-glutathione-vitamin-c-body-scrub-200ml",
+        "body_html": "<p data-start=\"604\" data-end=\"886\"><strong data-start=\"604\" data-end=\"661\">Guerniss Raw Glutathione Vitamin C Body Scrub (200ml)</strong> is a gentle exfoliating body scrub designed to remove dead skin cells, brighten dull skin, and improve overall skin texture. This refreshing formula cleanses effectively while maintaining the skin’s natural moisture balance.</p>\n<p data-start=\"888\" data-end=\"1241\">Formulated with <strong data-start=\"904\" data-end=\"927\">Peach Fruit Extract</strong>, the scrub provides mild physical exfoliation to smooth rough areas and reveal softer skin. <strong data-start=\"1020\" data-end=\"1033\">Vitamin C</strong> and <strong data-start=\"1038\" data-end=\"1053\">Glutathione</strong> work together to enhance skin brightness, improve uneven tone, and protect the skin from environmental stress. <strong data-start=\"1165\" data-end=\"1180\">Niacinamide</strong> supports skin clarity and helps strengthen the skin barrier.</p>\n<p data-start=\"1243\" data-end=\"1590\">Soothing ingredients like <strong data-start=\"1269\" data-end=\"1282\">Aloe Vera</strong>, <strong data-start=\"1284\" data-end=\"1297\">Panthenol</strong>, and <strong data-start=\"1303\" data-end=\"1324\">Chamomile Extract</strong> help calm and hydrate the skin during exfoliation. <strong data-start=\"1376\" data-end=\"1389\">Green Tea</strong> and <strong data-start=\"1394\" data-end=\"1419\">Licorice Root Extract</strong> offer antioxidant and brightening benefits, leaving the skin refreshed and radiant after every use. Gentle cleansing agents cleanse without causing dryness or irritation.</p>\n<p data-start=\"1592\" data-end=\"1680\">With regular use, your skin feels smoother, looks brighter, and appears more even-toned.</p>\n<h3 data-start=\"2234\" data-end=\"2257\">👩🦰 Suitable For:</h3>\n<p data-start=\"2258\" data-end=\"2304\">All skin types, including sensitive body skin.</p>\n<h3 data-start=\"2306\" data-end=\"2324\">🕒 How to Use:</h3>\n<p data-start=\"2325\" data-end=\"2444\">Apply to wet body skin and massage gently in circular motions. Rinse thoroughly. Use 2–3 times a week for best results.</p>",
+        "published_at": "2026-01-27T12:21:15+06:00",
+        "created_at": "2026-01-27T12:21:14+06:00",
+        "updated_at": "2026-05-10T21:58:14+06:00",
+        "vendor": "Guerniss",
+        "product_type": "",
+        "tags": [],
+        "variants": [
+          {
+            "id": 43361624719566,
+            "title": "Default Title",
+            "option1": "Default Title",
+            "option2": null,
+            "option3": null,
+            "sku": "8943456789315",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": null,
+            "available": true,
+            "price": "950.00",
+            "grams": 200,
+            "compare_at_price": null,
+            "position": 1,
+            "product_id": 7661058130126,
+            "created_at": "2026-01-27T12:21:14+06:00",
+            "updated_at": "2026-05-10T21:58:14+06:00"
+          }
+        ],
+        "images": [
+          {
+            "id": 38615069655246,
+            "created_at": "2026-01-27T12:19:05+06:00",
+            "position": 1,
+            "updated_at": "2026-01-27T12:19:06+06:00",
+            "product_id": 7661058130126,
+            "variant_ids": [],
+            "src": "https://cdn.shopify.com/s/files/1/0656/1877/2174/files/GlutathioneVitaminCScrub.jpg?v=1769494746",
+            "width": 2000,
+            "height": 2000
+          }
+        ],
+        "options": [
+          {
+            "name": "Title",
+            "position": 1,
+            "values": [
+              "Default Title"
+            ]
+          }
+        ]
+      },
+      "7661057671374": {
+        "id": 7661057671374,
+        "title": "Guerniss Raw Salicylic Acid Serum 30ml",
+        "handle": "raw-salicylic-acid-serum-30ml",
+        "body_html": "<h3 data-start=\"326\" data-end=\"359\">Full Product Description</h3>\n<p data-start=\"360\" data-end=\"642\">Guerniss Raw Salicylic Acid Serum is a targeted skincare solution designed to combat acne, unclog pores, and improve overall skin clarity. This lightweight, fast-absorbing formula penetrates deep into pores to remove excess oil, dead skin cells, and impurities that cause breakouts.</p>\n<p data-start=\"644\" data-end=\"1074\">Powered by <strong data-start=\"655\" data-end=\"673\">Salicylic Acid</strong>, a proven BHA exfoliant, this serum helps treat existing acne while preventing future breakouts. <strong data-start=\"771\" data-end=\"786\">Niacinamide</strong> works to reduce redness, minimize pores, and balance oil production, while <strong data-start=\"862\" data-end=\"895\">Aloe Barbadensis Leaf Extract</strong> and <strong data-start=\"900\" data-end=\"913\">Panthenol</strong> soothe and calm irritated skin. <strong data-start=\"946\" data-end=\"958\">Glycerin</strong> and <strong data-start=\"963\" data-end=\"983\">Propylene Glycol</strong> provide essential hydration without clogging pores, keeping skin balanced and comfortable.</p>\n<p data-start=\"1076\" data-end=\"1213\">With its non-greasy texture, this serum absorbs easily and layers well under moisturizer and sunscreen, making it suitable for daily use.</p>",
+        "published_at": "2026-01-27T12:14:17+06:00",
+        "created_at": "2026-01-27T12:14:16+06:00",
+        "updated_at": "2026-05-10T21:58:14+06:00",
+        "vendor": "Guerniss",
+        "product_type": "",
+        "tags": [
+          "face",
+          "Serum",
+          "skincare"
+        ],
+        "variants": [
+          {
+            "id": 43361623146702,
+            "title": "Default Title",
+            "option1": "Default Title",
+            "option2": null,
+            "option3": null,
+            "sku": "8943456789407",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": null,
+            "available": true,
+            "price": "720.00",
+            "grams": 30,
+            "compare_at_price": null,
+            "position": 1,
+            "product_id": 7661057671374,
+            "created_at": "2026-01-27T12:14:16+06:00",
+            "updated_at": "2026-05-10T21:58:14+06:00"
+          }
+        ],
+        "images": [
+          {
+            "id": 38615041409230,
+            "created_at": "2026-01-27T12:10:31+06:00",
+            "position": 1,
+            "updated_at": "2026-04-22T14:34:57+06:00",
+            "product_id": 7661057671374,
+            "variant_ids": [],
+            "src": "https://cdn.shopify.com/s/files/1/0656/1877/2174/files/Salicylic_Acid_Face_Serum_30ml.jpg?v=1776846897",
+            "width": 2000,
+            "height": 2000
+          },
+          {
+            "id": 38615041507534,
+            "created_at": "2026-01-27T12:10:41+06:00",
+            "position": 2,
+            "updated_at": "2026-01-27T12:10:42+06:00",
+            "product_id": 7661057671374,
+            "variant_ids": [],
+            "src": "https://cdn.shopify.com/s/files/1/0656/1877/2174/files/Salicylic_Acid_Face_Serum.jpg?v=1769494242",
+            "width": 2000,
+            "height": 2000
+          }
+        ],
+        "options": [
+          {
+            "name": "Title",
+            "position": 1,
+            "values": [
+              "Default Title"
+            ]
+          }
+        ]
+      },
+      "7661057245390": {
+        "id": 7661057245390,
+        "title": "Guerniss Raw Glutathione Niacinamide Body and Face Scrub 200ml",
+        "handle": "guerniss-raw-glutathione-niacinamide-body-scrub-200ml",
+        "body_html": "<p data-start=\"602\" data-end=\"886\"><strong data-start=\"602\" data-end=\"661\">Guerniss Raw Glutathione Niacinamide Body Scrub (200ml)</strong> is a gentle exfoliating body scrub formulated to cleanse, smooth, and brighten dull body skin. Designed for regular use, this scrub effectively removes dead skin cells and impurities while keeping the skin soft and hydrated.</p>\n<p data-start=\"888\" data-end=\"1211\">Infused with <strong data-start=\"901\" data-end=\"924\">Peach Fruit Extract</strong>, the scrub provides mild physical exfoliation to refine skin texture and reveal smoother skin. <strong data-start=\"1020\" data-end=\"1035\">Niacinamide</strong> helps improve uneven skin tone, enhances skin clarity, and supports a healthy skin barrier. <strong data-start=\"1128\" data-end=\"1143\">Glutathione</strong> delivers antioxidant care to boost overall brightness and radiance.</p>\n<p data-start=\"1213\" data-end=\"1579\">Soothing ingredients such as <strong data-start=\"1242\" data-end=\"1255\">Aloe Vera</strong>, <strong data-start=\"1257\" data-end=\"1270\">Panthenol</strong>, and <strong data-start=\"1276\" data-end=\"1297\">Chamomile Extract</strong> help calm and hydrate the skin, making exfoliation comfortable and non-irritating. <strong data-start=\"1381\" data-end=\"1394\">Green Tea</strong> and <strong data-start=\"1399\" data-end=\"1424\">Licorice Root Extract</strong> further support brightening and protect the skin from environmental stress. Gentle cleansing agents cleanse without stripping the skin’s natural moisture.</p>\n<p data-start=\"1581\" data-end=\"1658\">With regular use, skin feels smoother, looks brighter, and appears refreshed.</p>\n<h3 data-start=\"2138\" data-end=\"2161\">👩🦰 Suitable For:</h3>\n<p data-start=\"2162\" data-end=\"2208\">All skin types, including sensitive body skin.</p>\n<h3 data-start=\"2210\" data-end=\"2228\">🕒 How to Use:</h3>\n<p data-start=\"2229\" data-end=\"2348\">Apply to wet body skin and massage gently in circular motions. Rinse thoroughly. Use 2–3 times a week for best results.</p>",
+        "published_at": "2026-01-27T12:13:00+06:00",
+        "created_at": "2026-01-27T12:12:59+06:00",
+        "updated_at": "2026-05-10T21:58:14+06:00",
+        "vendor": "Guerniss",
+        "product_type": "",
+        "tags": [],
+        "variants": [
+          {
+            "id": 43361622720718,
+            "title": "Default Title",
+            "option1": "Default Title",
+            "option2": null,
+            "option3": null,
+            "sku": "8943456789339",
+            "requires_shipping": true,
+            "taxable": true,
+            "featured_image": null,
+            "available": true,
+            "price": "950.00",
+            "grams": 200,
+            "compare_at_price": null,
+            "position": 1,
+            "product_id": 7661057245390,
+            "created_at": "2026-01-27T12:12:59+06:00",
+            "updated_at": "2026-05-10T21:58:14+06:00"
+          }
+        ],
+        "images": [
+          {
+            "id": 38615046979790,
+            "created_at": "2026-01-27T12:12:51+06:00",
+            "position": 1,
+            "updated_at": "2026-01-27T12:12:53+06:00",
+            "product_id": 7661057245390,
+            "variant_ids": [],
+            "src": "https://cdn.shopify.com/s/files/1/0656/1877/2174/files/GlutathioneNiacinamideScrub_ec13e23b-9d4c-478f-9700-56d6adcb6564.jpg?v=1769494373",
+            "width": 2000,
+            "height": 2000
+          }
+        ],
+        "options": [
+          {
+            "name": "Title",
+            "position": 1,
+            "values": [
+              "Default Title"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

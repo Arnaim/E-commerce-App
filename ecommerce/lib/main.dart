@@ -1,17 +1,22 @@
-import 'package:e_commerce/app/app.dart';
-import 'package:e_commerce/app/utils/app_version_service.dart';
+import 'package:flutter/material.dart';
+import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:firebase_crashlytics/firebase_crashlytics.dart';
 import 'package:flutter/foundation.dart';
-import 'package:flutter/material.dart';
-
+import 'app.dart';
 import 'firebase_options.dart';
 
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
-  await Firebase.initializeApp(
-    options: DefaultFirebaseOptions.currentPlatform,
-  );
+  debugPrint("Firebase initializing...");
+  try {
+    await Firebase.initializeApp(
+      options: DefaultFirebaseOptions.currentPlatform,
+    );
+    debugPrint("Firebase initialized successfully.");
+  } catch (e) {
+    debugPrint("Firebase initialization failed: $e");
+  }
 
   FlutterError.onError = FirebaseCrashlytics.instance.recordFlutterFatalError;
 
@@ -20,7 +25,9 @@ Future<void> main() async {
     return true;
   };
 
-  await AppVersionService.getCurrentAppVersion();
-
-  runApp(const CraftyBay());
+  runApp(
+    const ProviderScope(
+      child: CosmeticApp(),
+    ),
+  );
 }
